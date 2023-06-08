@@ -1,0 +1,437 @@
+product brand,product name,vancouver_price,brand id
+Unknown,"Bananas, Bunch",2.0,1
+Unknown,Strawberries 1LB,6.49,1
+Unknown,English Cucumber,1.99,1
+Unknown,Red Seedless Watermelon,8.99,1
+Unknown,Green Onion,1.99,1
+Unknown,Red Cherries,13.71,1
+Unknown,Asparagus,6.49,1
+Unknown,Tomato On The Vine Red (1 Bunch),4.68,1
+Unknown,"Romaine Heart, 3 Pack",3.99,1
+Unknown,Tomato Beefsteak Red,1.47,1
+Unknown,Lettuce Iceberg,3.99,1
+Unknown,Avocados Bag,6.49,1
+Unknown,Lemon,0.99,1
+Farmer's Market,Yellow Onions,3.49,2
+Unknown,Strawberries 2LB,9.99,1
+Unknown,Red Peppers,2.64,1
+Unknown,Celery Stalks,3.99,1
+Unknown,Red Onion,2.44,1
+Unknown,Zucchini,1.85,1
+Unknown,"Bi-Colour Corn, Corn on the Cob",0.99,1
+Unknown,Limes,0.99,1
+Unknown,Green Seedless Grapes,13.47,1
+Unknown,Raspberries 1/2 pint,5.49,1
+Unknown,Cauliflower,5.99,1
+Unknown,Cilantro,1.99,1
+PC Organics,"Organic Bananas, Bunch",2.88,3
+Farmer's Market,Grape Tomatoes,4.99,2
+Unknown,Bartlett Pears,1.38,1
+Unknown,Blueberries 1 pint,3.99,1
+Unknown,Sweet Green Peppers,3.08,1
+Unknown,Roma Tomatoes,0.79,1
+Unknown,Broccoli Crowns,3.34,1
+Unknown,Royal Gala Apples,1.38,1
+Farmer's Market,Corn On The Cob,5.99,2
+Unknown,Broccoli,4.49,1
+Unknown,Ginger,2.31,1
+Farmer's Market,Mini Cucumbers,4.99,2
+Farmer's Market,Russet Potatoes,8.99,2
+Unknown,Cantaloupe,4.99,1
+President's Choice,Ontario Greenhouse-Grown Strawberries,6.99,4
+Rooster,"Garlic Bulbs, 3-count",1.99,5
+Unknown,Avocado,1.99,1
+Unknown,Sweet Potato,3.46,1
+Unknown,Orange Juice,12.0,1
+Unknown,"Greek Quinoa Spring Mix Salad, Mini",5.0,1
+Unknown,Dried Porcini Mushrooms,5.99,1
+Unknown,"Onions, Medium",30.49,1
+Manns,Snap Peas,5.99,6
+Paramount,"Wonderful Pistachios, Sweet Chili",6.99,7
+PC Organics,Gala Apples,1.94,3
+Unknown,Large House Salad,12.0,1
+President's Choice,Honey Roasted Pistachios,7.99,4
+Farmer's Market,Granny Smith Apples,8.99,2
+President's Choice,Salad Kit Sweet Kale Club Size,8.99,4
+Unknown,"Fresh Cut Fruit Salad, Small",7.0,1
+President's Choice,Yellow Caribe Hot Peppers,5.99,4
+Unknown,Carrots & Snap Peas,6.0,1
+Unknown,Fresh Salsa,4.16,1
+Unknown,Greek Salad Family Size,17.0,1
+Unknown,McIntosh Apples 3lb Bag,6.99,1
+President's Choice,Baby Spinach And Tender Red Lettuce,4.99,4
+Paramount,No shell BBQ Pistachios,9.99,7
+Unknown,Large House Cheddar Salad,12.0,1
+Unknown,Avocado Salad,9.0,1
+PC Organics,"Kale, Chard and Spinach Salad Mix",4.99,3
+Well,Ink. Lemonade Spirulina,5.99,8
+Unknown,Celery Sticks,4.0,1
+Paramount,Pistachios No Shells Chili Roasted,9.99,7
+No Name,Naturally Imperfect Mixed Sweet Peppers 2.5lb Bag,5.99,9
+Farmer's Market,Carrots 2 LB,2.99,2
+Manns,Snow Peas,5.99,6
+President's Choice,Southwest Salad Kit,6.99,4
+PC Organics,Organic Lime,5.99,3
+Earthbound Farms Organic,Asian Salad,7.49,10
+Unknown,Red Delicious Apples,1.38,1
+Unknown,Passion Fruit,2.49,1
+Unknown,Pomegranate,4.99,1
+Unknown,"Veggie Platter, Small",15.0,1
+President's Choice,Ambrosia Apples,1.45,4
+Unknown,Italian Parsley,2.69,1
+PC Organics,Organics Field Greens Salad Mix,6.99,3
+Unknown,"Shrimp & Bacon Caesar Salad, Mini",5.0,1
+Unknown,"Southwestern Chicken Salad, Family Size",17.0,1
+Tiffany Gates,Tiffany Gate Golden Chickpea Salad,2.29,11
+Unknown,Dates Medjool,16.99,1
+President's Choice,Green Thai Hot Peppers,5.99,4
+Unknown,Watermelon Cubed Large,9.0,1
+Farmer's Market,Mango Red 3Ct,5.99,2
+Unknown,Curly Parsley,2.69,1
+Unknown,Spaghetti Squash,8.3,1
+PC Organics,Organic Lemons,6.99,3
+Unknown,Premium Chicken BLT,9.0,1
+Unknown,Fresh Orange Juice,6.0,1
+President's Choice,Oregano,3.29,4
+Unknown,Sweet Kale Salad Family Size,17.0,1
+PC Organics,Organic Red Potatoes,6.99,3
+Unknown,Premium Chicken Caesar Salad,9.0,1
+President's Choice,Ranch Pouch 44Ml,0.59,4
+Farmer's Market,Pink Lady Apples 5lb Bag,11.99,2
+Unknown,"Fresh Berry Bowl, Small",7.0,1
+Unknown,Carrots & Celery,6.0,1
+PC Organics,Organic Garlic,3.49,3
+President's Choice,Broccoli Slaw,7.99,4
+President's Choice,Mixiany Tomato 454G,7.49,4
+Bolthouse,Ginger Carrot Turmeric,9.99,12
+POM Wonderful,Super Tea Pomegranate Peach Passion White Tea,11.99,13
+Unknown,Golden Figs,5.99,1
+No Name,"Raw, Unsalted Pumpkin Seeds",2.29,9
+Unknown,Romaine Salad Family Size,15.0,1
+Unknown,Garden Salad Mini,5.0,1
+Unknown,Pineapple Cubed Large,10.0,1
+Unknown,Pink Lady Apples,1.38,1
+President's Choice,Fresh Poultry Herb Blend,3.29,4
+Unknown,Blueberry Parfait,5.0,1
+Inspired Leaves,Washed Lettuce Crispies & Crunchies,5.99,14
+Taylor Farms,"Chopped Salad Kit, Dill Pickle",6.99,15
+Unknown,Cold Pressed Lemonade,6.0,1
+President's Choice,Kent Mango,3.49,4
+Love Beets,Cooked Beets,5.99,16
+President's Choice,Live Lettuce Boston,3.99,4
+Unknown,Pineapple Cubed Small,6.0,1
+Farmer's Market,Mini Potato Trio,7.99,2
+Unknown,"Stir Fry Vegetable Mix (Peppers,Mushrooms & Onion Mix)",6.0,1
+Aurora,Dried Turkish Figs,2.99,17
+PC Organics,Organics Baby Spinach,6.99,3
+President's Choice,Chopped Romaine,8.99,4
+PC Organics,Organic Mushroom Umami Mix,8.99,3
+President's Choice,Fingerling Potatoes,4.99,4
+Unknown,Large Caesar Salad,12.0,1
+Taylor Farms,Broccoli Crunch Salad Kit,6.99,15
+President's Choice,Coleslaw,3.49,4
+Unknown,Large Mexican Style Beef Taco Salad,13.0,1
+Dole,Sunflower Bacon Crunch Chopped Salad Kit,6.99,18
+Marzetti,Southwest Ranch Veggie Dip,1.49,19
+Well,Elixir Lemon+Ginger+Honey,3.99,8
+Unknown,Honeydew Cubed Small,6.0,1
+Fresh Attitude,Caesar Salad with Toppings Single Sized,6.99,20
+Unknown,"Chinese Carrots, Jumbo",4.07,1
+PC Organics,"Avocados, Bag",6.99,3
+Unknown,Red Beets,1.04,1
+Farmer's Market,Grape Tomato 907G,7.99,2
+Unknown,Premium Greek Classic,9.0,1
+Taylor Farms,Everything Ranch Salad Kit,6.99,15
+Unknown,"Navel Orange, Medium",2.24,1
+Unknown,Russet Potato,2.36,1
+PC Organics,Organics Yellow Onions,4.99,3
+PC Organics,Arugula & Baby Spinach Salad Mix,4.99,3
+President's Choice,Yellow Mini Potatoes,4.99,4
+President's Choice,Apple Cider Vin Pouch 45 Ml,0.59,4
+PC Blue Menu,Unsalted California Pistachios,11.99,21
+Unknown,Cello Spinach,4.99,1
+Unknown,Honeycrisp Apples,2.11,1
+Unknown,"Snack Cup, Veggies & Dip",6.0,1
+Unknown,Cauliflower Florets,6.0,1
+Unknown,"Fresh Orange, Spinach, Kale, Celery Juice",7.0,1
+Unknown,"Mediterranean Tuna Salad, Mini",5.0,1
+Unknown,Long Eggplants,1.92,1
+Taylor Farms,"Chopped Salad Kit, Steakhouse",6.99,15
+Unknown,Organic Strawberries 1 LB,8.99,1
+Unknown,Mixed Dried Mushrooms,5.99,1
+Marzetti,Caramel Dip Snack,6.49,19
+Unknown,Navel Orange,2.31,1
+PC Organics,Organic Basil,3.29,3
+Bolthouse,Mocha Cappuccino,6.99,12
+PC Organics,Organic Carrots,4.49,3
+PC Organics,Organic Peppers,6.99,3
+Renees,Sweet Chili Refrigerated Dip,5.99,22
+Unknown,Pineapple,5.99,1
+Unknown,"Greenhouse Peppers, Orange",2.64,1
+Renees,Ranch Refrigerated Dip,5.99,22
+Unknown,Blackberries 1/2 Pint,4.99,1
+Farmer's Market,Navel Oranges,7.99,2
+Remedy,Org Kom Rasp Lemn 700Ml,5.99,23
+Remedy,Kombucha Ginger Lemon,5.99,23
+The Little Potato Company,Microwave Ready Lemon and Garden Herb Potatoes,4.99,24
+POM Wonderful,100% Pomegranate Juice,15.99,13
+Bolthouse,Vanilla Chai Tea,6.99,12
+Well,Cold Pressed Juice Be Well,5.99,8
+PC Organics,Romaine Lettuce Hearts,7.99,3
+No Name,Naturally Imperfect Avocados,9.99,9
+Unknown,Organic Curly Parsley,3.99,1
+Farmer's Market,Peaches,8.99,2
+Unknown,Organic Blackberries,6.49,1
+President's Choice,Chipotle Chop Salad Kit,6.99,4
+Marzetti,"Veggie Dip, Light Ranch",5.99,19
+President's Choice,Crumbled Cauliflower,4.99,4
+Unknown,"Pineapple Vegetable Kebab, 4 pack",10.0,1
+Unknown,4 Inch Oregano Pot,3.99,1
+Unknown,Premium Baby Spinach With Fruit & Nuts,9.0,1
+President's Choice,Baby Arugula Spinach Blend,4.99,4
+POM Wonderful,Pomegranate Juice,9.99,13
+PC Organics,Organic Ginger,3.79,3
+Unknown,Rutabaga,6.28,1
+Unknown,Baby Spinach,9.0,1
+Paramount,"Pistachios, Salt & Pepper",6.99,7
+Unknown,Fresh Fruit Snack Cup,6.0,1
+Unknown,Mini Greek Salad,5.0,1
+Unknown,Blackberries 1 pint,8.99,1
+Unknown,Butternut Squash,12.38,1
+Unknown,Mini Mexican Beef Taco Salad,5.0,1
+Unknown,Brussel Sprouts with Red Onions,7.0,1
+President's Choice,Spring Mix,4.99,4
+Unknown,4 Inch Cilantro Pot,3.99,1
+PC Organics,Organic Chives,3.29,3
+Taylor Farms,Guacamole Crunch Chopped Salad Kit,6.99,15
+Unknown,Yellow Asian Pears,2.46,1
+Unknown,Mango Fruit Parfait,5.0,1
+PC Organics,Granny Smith Apples 3Lb Bag,10.99,3
+Bolthouse,"Juice, 100% Pomegranate",9.99,12
+Unknown,Cauliflower And Broccoli,6.0,1
+Unknown,Mixed Melon Cubed Large,10.0,1
+Unknown,Hami Melons,14.75,1
+Unknown,Villagio Marzano Tomatoes,7.99,1
+Unknown,White Flesh Nectarine,1.06,1
+President's Choice,"Ready Veggie, Kale Blend",5.99,4
+Unknown,Organic Raspberries 1/2 pint,6.49,1
+Unknown,Fresh Guacamole,4.95,1
+Unknown,Fuji Apples,1.58,1
+Summer Fresh,Corn & Pepper Quinoa,22.9,25
+Unknown,Yellow Potatoes,1.78,1
+Unknown,Chicken Caesar Salad Family Size,17.0,1
+Unknown,Carrots & Cucumber,6.0,1
+Unknown,Kiwi Fruit,7.99,1
+President's Choice,50-50 Blend - A Blend of Baby Spinach and Field Greens,6.99,4
+Unknown,Organic Spaghetti Squash,13.77,1
+Inspired Leaves,Canadian Reds Lettuce,5.99,14
+Unknown,Chicken Caesar Salad Mini,5.0,1
+Unknown,Caesar Salad Mini,5.0,1
+Paramount,Pistachios No Shells Roasted Light Salt,9.99,7
+Unknown,Carrots,0.57,1
+President's Choice,Live Lettuce Tri Mix - 1 Unit,3.99,4
+PC Organics,Organic Field Greens & Baby Spinach - Salad Mix,6.99,3
+Eat Smart,Sweet Kale Salad Kit,6.49,26
+Unknown,Kabocha Squash,13.51,1
+Unknown,Kale Spinach Pineapple Orange Blend,14.0,1
+PC Organics,Gala Apples 3Lb Bag,10.99,3
+Unknown,Raspberry Banana Parfait,5.0,1
+Unknown,Large Greek Salad,12.0,1
+Unknown,Large Chicken Caesar Salad,12.0,1
+Unknown,Granadilla,2.99,1
+Unknown,Cored Pineapple,7.49,1
+Unknown,"Fresh Apple, Lemon, Ginger, Turmeric Juice",7.0,1
+President's Choice,Mixed Greens,4.99,4
+Earthbound Farms Organic,Chop Honey Citrus Salad,7.49,10
+PC Organics,"Mushroom White, Sliced",3.99,3
+Unknown,Premium Baby Spinach With Chicken,9.0,1
+President's Choice,Romaine Salad,4.99,4
+Unknown,White Peaches,2.31,1
+Bolthouse,Berry Boost,6.99,12
+Unknown,Bard Valley Natural Delights Pitted Medjool Dates,9.99,1
+Farmer's Market,Mini Carrots 1lb,2.99,2
+PC Organics,Blueberries,4.99,3
+Farmer's Market,Gala Apples 3lb Bag,7.99,2
+Unknown,"Chanterelle Mushrooms, Dried",5.99,1
+Unknown,Chickpea Salad,9.0,1
+Dole,Chop Chop Kit Everything Caesar,6.99,18
+Unknown,Sweet Kale,9.0,1
+President's Choice,Variety Pack Tomatoes,8.99,4
+Unknown,Bosc Pears,1.69,1
+Taylor Farms,"Chopped Salad Kit, Buffalo Ranch",6.99,15
+Unknown,Watermelon Cubed Small 300G,6.0,1
+Unknown,Vegetable Platter Large,21.0,1
+President's Choice,Dressing Caesar,0.59,4
+PC Organics,Organic Yellow Potatoes,6.99,3
+Paramount,"Wonderful Pistachios, Roasted & Salted",6.99,7
+Unknown,Chicken Salad,2.29,1
+President's Choice,Red Thai Hot Peppers,5.99,4
+President's Choice,Loads Of Garlic Caesar Salad Kit,6.99,4
+President's Choice,Rosemary,3.29,4
+Unknown,Mini Seedless Watermelon,7.99,1
+No Name,Naturally Imperfect Lemons,6.99,9
+President's Choice,Thyme,3.29,4
+Wholly Guacamole,Classic Bowl,5.99,27
+Unknown,Strawberry Parfait,5.0,1
+Unknown,Green Peppers,5.99,1
+Unknown,Large Steak & Egg Salad,13.0,1
+Unknown,Dried Turkish Apricots,3.99,1
+Unknown,Mixed Cut Peppers,6.0,1
+Dole,Chop Chop Kit Teriyaki Pineapple,6.99,18
+Unknown,Cobb with Cheddar Salad Mini,5.0,1
+Unknown,Apple Cosmic Crisp,1.85,1
+President's Choice,Balsamic Vinaigrette Pouch,0.59,4
+President's Choice,Blood Oranges,7.99,4
+President's Choice,Salted California Pistachios,6.49,4
+PC Organics,Organic Whole Cremini Mushroooms,6.49,3
+PC Organics,Organics Whole Button Cremini Mushrooms,4.29,3
+Eat Smart,Honey Dijon Kale,6.49,26
+PC Organics,Rose Spring Salad Mix,4.99,3
+PC Organics,Organic Sweet Potatoes 3lb Bag,9.99,3
+Unknown,Snack Platter,8.0,1
+Unknown,"Caesar Salad, No Bacon",5.0,1
+Unknown,"Corn Pepper Zucchini Red Pepper Kebab, 2 pack",6.0,1
+Unknown,Dragon Fruit Parfait,5.0,1
+President's Choice,Axiany Cherry Tomatoes,3.99,4
+Unknown,"Chicken Ceasar Salad, Mini No Bacon",5.0,1
+Unknown,Parsnips 2lb Bag,6.49,1
+Unknown,Seedless Mandarins,0.82,1
+Unknown,Premium Caesar Salad,9.0,1
+Unknown,Bok Choy,3.51,1
+President's Choice,Sage,3.29,4
+PC Organics,Organics Sliced Cremini Mushrooms,3.99,3
+President's Choice,Caesar Salad Kit,7.99,4
+President's Choice,White Potatoes,8.49,4
+President's Choice,"Salted, Dry Roasted California Pistachios",26.99,4
+Farmer's Market,Greenhouse Peppers,4.99,2
+Unknown,Veggie Tripack,14.0,1
+Unknown,"Mexican Style Beef Taco Salad, Family Size",19.0,1
+PC Organics,Organic White Mushrooms,3.49,3
+President's Choice,Greek Vinaigrette Pouch,0.59,4
+PC Organics,Organic Roma Tomatoes,5.99,3
+Earthbound Farms Organic,Chop Kale Caesar,7.49,10
+Bolthouse,Green Goodness,9.99,12
+Bolthouse,100% Carrot,9.99,12
+Marzetti,"Veggie Dip, Ranch Snack Pack",6.99,19
+Unknown,Organic Medjool Dates,11.99,1
+President's Choice,Red Potatoes,6.99,4
+Farmer's Market,Sweet Potatoes,9.99,2
+Unknown,Solo Papaya,7.99,1
+Unknown,Large Shrimp & Bacon Caesar Salad,13.0,1
+President's Choice,Garden Salad,4.49,4
+Unknown,Mixed Fruit Parfait,5.0,1
+Farmer's Market,Red Delicious Apples 3lb Bag,7.99,2
+PC Organics,Organics Whole White Mushrooms,8.99,3
+President's Choice,Chopped Mexican Style Street Corn Salad Kit,6.99,4
+Renees,French Onion Refrigerated Dip,5.99,22
+The Little Potato Company,"Fresh Creamer Potatoes Roasted Garlic, Rosemary & Thyme",4.99,24
+Unknown,Honeydew Melon,6.99,1
+Renees,Dill Refrigerated Dip,5.99,22
+Taylor Farms,"Chopped Salad Kit, Thai Style Chili Mango",6.99,15
+Unknown,Popeye Baby Spinach Mix,4.49,1
+Unknown,Radicchio Lettuce,3.41,1
+Unknown,White Mushrooms,0.36,1
+Love Beets,Organic Cooked Beets,6.99,16
+Unknown,Okra,1.21,1
+Remedy,Organic Mango Passionfruit Kombucha,5.99,23
+Unknown,"Greenhouse Peppers, Yellow",2.75,1
+Unknown,Celery Hearts,5.99,1
+Unknown,Leeks,6.99,1
+PC Organics,Organic Thyme,3.29,3
+PC Organics,Organic Green Onions,1.99,3
+Duda Farms,Duda Celery Sticks,5.99,28
+Unknown,Kale,3.99,1
+PC Organics,Organic Cauliflower,7.49,3
+President's Choice,Broccoli Florets,9.99,4
+Gourmet Garden,Paste Cilantro,5.99,29
+Unknown,Broccolini,3.99,1
+Unknown,Sour Cabbage Head,11.74,1
+Unknown,Ataulfo Mango,2.99,1
+Marzetti,"Veggie Dip, Spinach",5.99,19
+Fresh Attitude,Spring Mix Salad with Toppings Single Sized,6.99,20
+Unknown,Sweet Onion,3.03,1
+Farmer's Market,Mini Carrots,5.99,2
+Manns,Sugar Snap Peas  ,10.99,6
+Unknown,Fresh Coconut Young,5.99,1
+President's Choice,Basil,5.49,4
+Unknown,Rapini,4.99,1
+Unknown,Green Leaf Lettuce,3.99,1
+PC Organics,Organics Whole Shitake Mushrooms,4.99,3
+Unknown,Brussels Sprouts,0.33,1
+PC Organics,Organic Mint,3.29,3
+Unknown,Soy Sprouts,1.99,1
+Unknown,Savoy Cabbage,5.35,1
+Unknown,"Carrots, Bunched",2.99,1
+Unknown,Shanghai Bok Choy Jr.,6.6,1
+Unknown,Papaya,7.14,1
+Unknown,Green Beans,0.5,1
+Unknown,Chinese Napa Cabbage,6.15,1
+Unknown,Potato Baking Tray,4.99,1
+Unknown,White Onion,2.44,1
+Unknown,Acorn Squash,5.54,1
+Unknown,Fresh Mango Pineapple Smoothie,5.99,1
+Unknown,"Spinach, Bunched",2.99,1
+President's Choice,Vegetable Medley,5.49,4
+Bolthouse,C-Boost,6.99,12
+Well,Cold Pressed Juice Greens,5.99,8
+Well,Cold Pressed Juice Played,5.99,8
+Unknown,Organic Iceberg Lettuce,4.99,1
+Unknown,Red Leaf Lettuce,3.99,1
+Unknown,Organic Carrots Bunched,4.99,1
+Unknown,"Fresh Dill, Baby",3.99,1
+Unknown,French Beans,5.99,1
+Unknown,Radish,3.99,1
+Unknown,Organic Rainbow Swiss Chard,4.99,1
+Unknown,Radishes,2.69,1
+Unknown,French Bean,8.99,1
+Unknown,Fennel,5.99,1
+President's Choice,Kale Slaw,4.49,4
+Gourmet Garden,Paste Italian Herbs,5.99,29
+PC Organics,Organic Broccoli,6.99,3
+President's Choice,Cauliflower Slaw,4.49,4
+Bolthouse,Amazing Mango,9.99,12
+No Name,Naturally Imperfect Limes,5.99,9
+Bolthouse,Strawberry Banana,6.99,12
+Well,Cold Pressed Juice C Well,5.99,8
+President's Choice,Caesar Salad Chop Kit,6.99,4
+Unknown,Yellow Peaches,3.08,1
+PC Organics,Organic Tomato On The Vine Red (1 Bunch),7.92,3
+Marzetti,"Veggie Dip, Ranch",5.99,19
+Farmer's Market,Carrots 5lb Bag,6.99,2
+Unknown,Lemongrass,1.99,1
+Unknown,Popeye Select Spinach,11.99,1
+Farmer's Market,Red Grapefruit,7.99,2
+PC Organics,Organics Baby Cut Carrots,6.79,3
+Unknown,"Plantains, Single",1.16,1
+Remedy,Kombucha Wild Berry,5.99,23
+Well,Ink. Lemonade Charcoal,5.99,8
+Unknown,Fresh Banana Strawberry Smoothie,5.99,1
+President's Choice,Jalapeno Hot Peppers,5.99,4
+Bolthouse,Blue Goodness,6.99,12
+Bolthouse,Red Goodness,6.99,12
+The Little Potato Company,Microwave Ready Savoury Herb Potatoes,4.99,24
+Unknown,Rhubarb,5.99,1
+Unknown,Green Swiss Chard,4.99,1
+Unknown,Organic Leeks,6.99,1
+PC Organics,Organic Asparagus,6.99,3
+Unknown,Organic Green Kale,4.99,1
+Unknown,Romaine Lettuce,3.99,1
+Unknown,Purple Eggplants,3.76,1
+Unknown,"Cabbage, Green",6.27,1
+Unknown,"Organic English Cucumber, Pack of 2",6.99,1
+Unknown,Red Cabbage,5.84,1
+PC Organics,Organic Rosemary,3.29,3
+Unknown,Organic Rainbow Carrots,5.99,1
+Unknown,Pitted Honey Dates,7.99,1
+President's Choice,Mandarin Oranges,6.99,4
+President's Choice,Tarragon,3.29,4
+PC Organics,Baby Arugula,4.99,3
+Unknown,Cremini Mushrooms,0.36,1
+Marzetti,"Veggie Dip, Southwest Ranch",5.99,19
+President's Choice,Salad Kit Chopped Sesame Wonton,6.99,4
+President's Choice,Bacon Caesar Chop Salad Kit,6.99,4
+President's Choice,Barbecue Ranch Chopped Salad Kit,6.99,4
+Unknown,Kiwis,1.09,1
+Marzetti,"Fruit Dip, Cream Cheese",5.99,19
+Farmer's Market,Lemons 3lb Bag,7.99,2
+Unknown,LoBok (Daikon Radish),3.28,1
