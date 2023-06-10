@@ -3,25 +3,31 @@ import pandas as pd
 
 app = Flask(__name__)
 
-# Base Route
-@app.route("/")
-def index(): 
-    return render_template("index.html")
+# Load the data at the start of the application
+df = pd.read_csv('Web Scrapping\Sorted_Merged_Loblaws_price_comparison.csv')
 
-# API Route
-@app.route("/api")
-def api():
-    try:
-        # Load the CSV file into a pandas DataFrame
-        df = pd.read_csv('Sorted_Merged_Loblaws_price_comparison.csv')
+@app.route('/')
+def main():
+    # This is the main page
+    return render_template('main.html')
 
-        # Convert the DataFrame to a dictionary and jsonify it
-        data = df.to_dict(orient='records')
-        return jsonify(data)
-    except Exception as e:
-        print(e)  # print the error to the console for debugging
-        return jsonify({"error": str(e)}), 500  # Return a JSON response with error message and a 500 status code
+@app.route('/view_data')
+def view_data():
+    # Render the DataFrame in an HTML template
+    return render_template('data.html', data=df.to_html())
 
-# Run
-if __name__ == "__main__":
-    app.run(debug=True)  # enable debug mode for more detailed error messages
+@app.route('/charts')
+def charts():
+    # Page for dynamic charts
+    # This will depend on what charting library you want to use
+    # And what data you want to display
+    return render_template('charts.html', data=df.to_dict(orient='records'))
+
+@app.route('/maps')
+def maps():
+    # Page for leaflet plots
+    # The implementation will depend on how you want to plot your data
+    return render_template('maps.html', data=df.to_dict(orient='records'))
+
+if __name__ == '__main__':
+    app.run(debug=True)
