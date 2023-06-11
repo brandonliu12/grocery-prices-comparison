@@ -4,9 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const locations = ['Edmonton', 'Toronto', 'Vancouver', 'Ottawa'];
 
     // Fetch data from the API endpoint
-    fetch('/api')
+    fetch('http://localhost:5000/api')  // Update the URL with the correct API endpoint
         .then(response => response.json())
         .then(data => {
+            console.log(data); // Debug statement to check the retrieved data
+
             let html = '';
 
             // Populate the dropdown with product IDs
@@ -37,17 +39,15 @@ document.addEventListener('DOMContentLoaded', () => {
                     const matchedRow = filteredData.find(row => row['Location'] === location);
                     const price = matchedRow ? matchedRow['Price'] : 'N/A';
                     tableRows += `
-                        <td>${price}</td>
+                        <tr>
+                            <td>${location}</td>
+                            <td>${price}</td>
+                        </tr>
                     `;
                 });
 
                 // Update the table body with the generated rows
-                tableBody.innerHTML = `
-                    <tr>
-                        <th scope="row">${selectedProductId}</th>
-                        ${tableRows}
-                    </tr>
-                `;
+                tableBody.innerHTML = tableRows;
             }
         })
         .catch(error => console.error('Error:', error));
