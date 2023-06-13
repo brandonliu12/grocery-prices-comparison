@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const locations = ['Edmonton', 'Toronto', 'Vancouver', 'Ottawa'];
 
     // Fetch data from the API endpoint
-    fetch('http://localhost:5000/api')  // Update the URL with the correct API endpoint
+    fetch('http://localhost:5000/api')
         .then(response => response.json())
         .then(data => {
             console.log(data); // Debug statement to check the retrieved data
@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Populate the dropdown with product IDs
             const productIds = new Set();
             data.forEach(row => {
-                productIds.add(row['Product ID']);
+                productIds.add(row['product id']);
             });
             productIds.forEach(productId => {
                 const option = document.createElement('option');
@@ -30,14 +30,13 @@ document.addEventListener('DOMContentLoaded', () => {
             function handleProductChange(event) {
                 const selectedProductId = event.target.value;
 
-                // Filter data based on the selected product ID
-                const filteredData = data.filter(row => row['Product ID'] === selectedProductId);
+                // Find the row matching the selected product ID
+                const selectedRow = data.find(row => row['product id'] === selectedProductId);
 
                 // Generate the table rows with prices for each location
                 let tableRows = '';
                 locations.forEach(location => {
-                    const matchedRow = filteredData.find(row => row['Location'] === location);
-                    const price = matchedRow ? matchedRow['Price'] : 'N/A';
+                    const price = selectedRow ? selectedRow[location.toLowerCase()] : 'N/A';
                     tableRows += `
                         <tr>
                             <td>${location}</td>
