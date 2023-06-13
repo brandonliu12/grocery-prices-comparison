@@ -11,15 +11,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
             let html = '';
 
-            // Populate the dropdown with product IDs
-            const productIds = new Set();
+            // Populate the dropdown with product IDs and names
             data.forEach(row => {
-                productIds.add(row['product id']);
-            });
-            productIds.forEach(productId => {
+                const productId = row['product id'];
+                const productName = row['product name'];
                 const option = document.createElement('option');
                 option.value = productId;
-                option.textContent = productId;
+                option.textContent = `${productId} - ${productName}`;
                 dropdown.appendChild(option);
             });
 
@@ -31,16 +29,17 @@ document.addEventListener('DOMContentLoaded', () => {
                 const selectedProductId = event.target.value;
 
                 // Find the row matching the selected product ID
-                const selectedRow = data.find(row => row['product id'] === selectedProductId);
+                const selectedRow = data.find(row => row['product id'] === parseInt(selectedProductId));
 
                 // Generate the table rows with prices for each location
                 let tableRows = '';
                 locations.forEach(location => {
-                    const price = selectedRow ? selectedRow[location.toLowerCase()] : 'N/A';
+                    const price = selectedRow ? selectedRow[location] : 'N/A';
+                    const formattedPrice = price !== 'N/A' ? `$${price.toFixed(2)}` : 'N/A';
                     tableRows += `
                         <tr>
                             <td>${location}</td>
-                            <td>${price}</td>
+                            <td>${formattedPrice}</td>
                         </tr>
                     `;
                 });
@@ -48,6 +47,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Update the table body with the generated rows
                 tableBody.innerHTML = tableRows;
             }
+
+            // Trigger change event for initial selection
+            dropdown.dispatchEvent(new Event('change'));
         })
         .catch(error => console.error('Error:', error));
 });
