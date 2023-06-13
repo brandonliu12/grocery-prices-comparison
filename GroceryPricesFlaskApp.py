@@ -15,6 +15,10 @@ def main():
     # This is the main page
     return render_template("index.html")
 
+@app.route("/index")
+def index():
+    # Another way to return to the main page
+    return render_template("index.html")
 
 @app.route('/view_data')
 def view_data():
@@ -22,12 +26,22 @@ def view_data():
     return jsonify(df.to_dict(orient='records'))
 
 
+@app.route("/api")
+def api():
+    # Convert DataFrame to a list of dictionaries
+    data = df_sorted_merged.to_dict(orient='records')
+
+    # Return JSON data
+    return jsonify(data)
+
+
 @app.route('/charts')
 def charts():
+
     # Page for dynamic charts
     # This will depend on what charting library you want to use
     # And what data you want to display
-    return render_template('charts.html', data=df.to_dict(orient='records'))
+    return render_template('charts.html')
 
 
 @app.route('/maps')
