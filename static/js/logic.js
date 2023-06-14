@@ -14,17 +14,17 @@ document.addEventListener('DOMContentLoaded', () => {
             let html = '';
 
             // Populate the dropdown with product IDs and names
-            data.forEach(row => {
-                const productId = row['product id'];
-                const productName = row['product name'];
-                const option = document.createElement('option');
-                option.value = productId;
-                option.textContent = `${productId} - ${productName}`;
-                dropdown.appendChild(option);
-            });
+//            data.forEach(row => {
+//                const productId = row['product id'];
+//                const productName = row['product name'];
+//                const option = document.createElement('option');
+//                option.value = productId;
+//                option.textContent = `${productId} - ${productName}`;
+//                dropdown.appendChild(option);
+//            });
 
             // Add change event listener to the dropdown
-            dropdown.addEventListener('change', handleProductChange);
+//            dropdown.addEventListener('change', handleProductChange);
 
             // Handle change event on the dropdown
             function handleProductChange(event) {
