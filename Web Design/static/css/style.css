@@ -1,3 +1,29 @@
-.table {
-    width: 80%;
-}
+.container {
+    margin-top: 20px;
+  }
+  
+  .container-fluid {
+    padding: 0;
+  }
+  
+  .dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  
+  .dropdown-container {
+    flex-basis: 300px;
+    padding-right: 20px;
+  }
+  
+  .table-container {
+    flex-basis: calc(100% - 300px);
+  }
+  
+  /* Additional styles for the charts */
+  .chart-container {
+    flex-basis: calc(100% / 3);
+    padding: 10px;
+  }
+  

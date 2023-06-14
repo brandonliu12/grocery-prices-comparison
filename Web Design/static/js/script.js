@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     const dropdown = document.getElementById('product-dropdown');
     const tableBody = document.getElementById('table-body');
+    const chartContainer = document.getElementById('chart-container');
     const locations = ['Edmonton', 'Toronto', 'Vancouver', 'Ottawa'];
 
     // Fetch data from the API endpoint
@@ -12,12 +13,15 @@ document.addEventListener('DOMContentLoaded', () => {
             let html = '';
 
             // Populate the dropdown with product IDs and names
+            const productIds = new Set();
             data.forEach(row => {
-                const productId = row['product id'];
-                const productName = row['product name'];
+                productIds.add(row['product id']);
+            });
+            productIds.forEach(productId => {
+                const selectedRow = data.find(row => row['product id'] === parseInt(productId));
                 const option = document.createElement('option');
                 option.value = productId;
-                option.textContent = `${productId} - ${productName}`;
+                option.textContent = `Product ID: ${productId} - ${selectedRow['product name']}`;
                 dropdown.appendChild(option);
             });
 
@@ -46,10 +50,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Update the table body with the generated rows
                 tableBody.innerHTML = tableRows;
-            }
 
-            // Trigger change event for initial selection
-            dropdown.dispatchEvent(new Event('change'));
+                // Generate data for the bar chart
+                const chartData = locations.map(location => {
+                    const price = selectedRow ? selectedRow[location] : 0;
+                    return {
+                        location,
+                        price
+                    };
+                });
+
+                // Plot the bar chart
+                const chartLayout = {
+                    title: 'Prices by Location',
+                    xaxis: {
+                        title: 'Location'
+                    },
+                    yaxis: {
+                        title: 'Price'
+                    }
+                };
+
+                const chartTrace = {
+                    x: chartData.map(item => item.location),
+                    y: chartData.map(item => item.price),
+                    type: 'bar'
+                };
+
+                Plotly.newPlot('chart-container', [chartTrace], chartLayout);
+            }
         })
         .catch(error => console.error('Error:', error));
 });

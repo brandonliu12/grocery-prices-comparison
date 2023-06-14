@@ -7,6 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <title>Grocery Prices</title>
+    <style>
+        .table-container {
+            width: 50%;
+            margin-right: auto;
+            margin-left: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -15,22 +22,18 @@
         <div class="row">
             <div class="col-md-12 jumbotron text-center">
                 <h1>Grocery Prices Dashboard</h1>
+                <p>[We'll get some data here eventually]</p>
             </div>
         </div>
 
-        <!-- Dropdown Menu -->
+        <!-- Dropdown Menu and Table Container -->
         <div class="row">
-            <div class="col-md-12" align="center">
+            <div class="col-md-6 table-container" align="center">
                 <label for="product-dropdown">Select Product ID:</label>
                 <select id="product-dropdown" class="form-control">
                     <option value="" disabled selected>Select a product</option>
                 </select>
-            </div>
-        </div>
-
-        <!-- Table to Display Prices -->
-        <div class="row">
-            <div class="col-md-12" align="center">
+                <br>
                 <table class="table table-hover table-condensed">
                     <thead>
                         <tr>
@@ -42,6 +45,9 @@
                         <!-- Table rows will be dynamically populated here -->
                     </tbody>
                 </table>
+            </div>
+            <div class="col-md-6" align="center">
+                <div id="chart-container"></div>
             </div>
         </div>
     </div>
