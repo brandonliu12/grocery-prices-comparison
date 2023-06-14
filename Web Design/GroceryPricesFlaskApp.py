@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app)
 
 # Load the sorted and merged DataFrame
-df_sorted_merged = pd.read_csv('C:\\Users\\Chris\\Documents\\SCS\\grocery-prices-comparison\\Web Design\\Final_Merged_Loblaws_price_comparison.csv')
+df_sorted_merged = pd.read_csv('Web Design\\Final_Merged_Loblaws_price_comparison.csv')
 
 # Replace NaN values with a specific string
 df_sorted_merged.replace(np.nan, 'N/A', inplace=True)

@@ -54,8 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Update the table body with the generated rows
                 tableBody.innerHTML = tableRows;
 
-                console.log(prices);
-
+                // Bar plot with prices
                 let barData = [
                     {
                         x:locations,
@@ -65,21 +64,47 @@ document.addEventListener('DOMContentLoaded', () => {
                     }];    
                 Plotly.newPlot("bar", barData);
 
+                // Get lowest price
+                let minPrice = 9999.99
+                for (i =0; i < prices.length; i++){
+                    if (prices[i] < minPrice){
+                        minPrice = prices[i];
+                    }
+                }
 
+                // Difference between location price and lowest price
+                let priceDiff = [];
+                let colours = [];
+                for (i = 0; i < prices.length; i++){
+                    d = ((prices[i]*100) - (minPrice*100)) / 100
+                    priceDiff.push(d);
+              
+                    if (d == 0){
+                      colours.push('#00FF00')
+                    } else if (d < 1) {
+                      colours.push('FFFF00')
+                    } else if (d >= 1){
+                      colours.push('#FF0000')
+                    } else {
+                      colours.push('#FFFFFF')
+                    }
+                  }
+
+                // Bubblemap 
                 let mapdata = [{
                     type: 'scattergeo',
                     mode: 'markers',
-                    text: locations,//diff, //'Toronto', 'Vancouver', 'Edmonton','Ottawa'],
-                    lon: [-113.28, -79.24, -123.06, -75.43],//[-79.24, -123.06, -113.28,-75.43],
-                    lat: [53.34, 43.65, 49.13,  45.24],//[43.4, 49.13, 53.34, 45.24,44.64],
+                    text: priceDiff,
+                    lon: [-113.28, -79.24, -123.06, -75.43],
+                    lat: [53.34, 43.65, 49.13,  45.24],
                     marker: {
                         size: [20, 20, 20, 20],
-                        color: prices,
+                        color: colours,
                         line: {
                             color: 'black'
                         }
                     },
-                    name: 'Canada'
+                    name: 'Price Difference'
                   }];
                 
                   let layout = {
