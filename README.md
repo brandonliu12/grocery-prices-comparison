@@ -17,3 +17,5 @@ A geographical map exhibiting a bubble chart that represents the highest and low
 The cities with the highest prices are marked with a distinct red bubble, while the cities with the most affordable prices are highlighted with a green bubble.
 
 This project allows for an easy comparison of fruit and vegetable prices across different geographical locations, thus offering invaluable insights to both consumers and businesses alike.
+
+P.S. A SQL database was developed, however due to technical problems we ended up deciding to bypass using it for our flask app development. The file SQL contains our work regarding SQL.
