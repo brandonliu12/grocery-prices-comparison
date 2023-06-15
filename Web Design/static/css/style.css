@@ -1,3 +1,46 @@
+body {
+    background-color:rgb(230,230,230)
+}
+
+h1 {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-style: italic !important;
+}
+
+.col-md-4 {
+    background-color: white;
+}
+.col-md-8 {
+    background-color: white;
+}
+
+.jumbotron {
+    margin:0px;
+}
+
 .table {
-    width: 80%;
+    margin-top: 50px;
+    width: 40%;
+    background-color: white;
+}
+
+.jumbotron {
+    background-color:rgb(52,58,64);
+    color: white;
+}
+
+#product-dropdown-label {
+    margin-top: 50px;
+}
+
+#product-dropdown {
+    width: 200px;
+}
+
+#bar {
+
+}
+
+#bubble {
+
 }
