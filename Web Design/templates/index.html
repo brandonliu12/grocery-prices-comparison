@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
+<html data-bs-theme="dark" lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <title>Grocery Prices</title>
 
 </head>
@@ -13,67 +13,75 @@
 <body>
 
         <!-- Big Title at the Top -->
-    <div class="rwo">
-        <div class="col-md-12 jumbotron text-center">
-            <h1>Grocery Prices Dashboard</h1>
-        </div>
-    </div>
 
-    <div class="row">
-        <div class="col-md-2"></div>
+
+
+    <div class="container">
+        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+          <div class="col-md-3 mb-2 mb-md-0">
+                <span class="fs-4">Grocery Prices Dashboard</span>
+          </div>
     
+          <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+            <li>
+                <a href="#" class="nav-link px-2 text-white align-middle">Select a Product ID:</a>
+            </li>
+            <li>
+                <form class="w-100 me-3">
+                    <select for="product-dropdown" id="product-dropdown" class="form-control">
+                        <option value="" disabled selected>Select a product</option>
+                    </select>
+                </form>
+            </li>
 
-            <div class="col-md-8" align="center">
-                <!-- Dropdown Menu -->
 
+          </ul>
+        </header>
+    </div>
 
-                <label for="product-dropdown" id="product-dropdown-label">Select Product ID:</label>
-                <select id="product-dropdown" class="form-control">
-                    <option value="" disabled selected>Select a product</option>
-                </select>
+    <div class = "row">
+        <div class = "col-md-2"></div>
 
-                <!-- Table to Display Prices -->
+        <div class="col-md-8" align="center">
 
-                <table class="table table-hover table-condensed">
-                    <thead>
-                        <tr>
-                            <th>Location</th>
-                            <th>Price</th>
-                        </tr>
-                    </thead>
-                    <tbody id="table-body">
-                        <!-- Table rows will be dynamically populated here -->
-                    </tbody>
-                </table>
+            <!-- Table to Display Prices -->
+            <table class="table table-hover table-condensed">
+                <thead>
+                    <tr>
+                        <th>Location</th>
+                        <th>Price</th>
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Table rows will be dynamically populated here -->
+                </tbody>
+            </table>
+
         </div>
         <div class="col-md-2"></div>
     </div>
 
-    <div class="row">
-        <div class="col-md-2"></div>
+    <div class = "row">
+        <div class = "col-md-2"></div>
 
-        <div class="col-md-8">
+        <div class="col-md-8" align="center">
+            <div id="bar"></div> 
+        </div>
+        <div class = "col-md-2"></div>
+    </div>
 
-            <div class="col-sm-6">
-                <div class="panel panel-default">
-                    <div id="bar"></div> 
-                </div>
-                
-            </div>
-    
-            <div class="col-sm-6">
-                <div class="panel panel-default">
-   
-                    <div id="bubble"></div>   
+    <div class = "row">
+        <div class = "col-md-2"></div>
 
-                </div>
-            </div>
+        <div class="col-md-8" align="center">
+
+            <div id="bubble"></div>   
 
         </div>
-   
-
-        <div class="col-md-2"></div>
+        <div class = "col-md-2"></div>
     </div>
+
+
 
 
   

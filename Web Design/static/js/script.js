@@ -65,9 +65,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     }];    
 
                 var barLayout = {
+                    paper_bgcolor: 'rgba(0,0,0,0)',
+                    plot_bgcolor: 'rgba(0,0,0,0)',
                     yaxis: {
                         title: 'Price (CAD)'
-                    }
+                    },
+                    font: {
+                        color: "rgb(173, 181, 189)"
+                    },
                 };
                       
                 Plotly.newPlot("bar", barData, barLayout);
@@ -123,6 +128,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 let layout = {
                     title: 'Lowest Price <br><sup>Green: Lowest, Yellow: < $1 Higher, Red: >= $1 Higher </sup>' ,
+                    paper_bgcolor: 'rgba(0,0,0,0)',
+                    plot_bgcolor: 'rgba(0,0,0,0)',
                     'geo': {
                         'scope': 'north america',
                         'resolution': 50,
@@ -132,6 +139,11 @@ document.addEventListener('DOMContentLoaded', () => {
                         lataxis: {
                           'range': [40, 70]
                         }
+                    },
+                    autosize: true,
+                    automargin: true,
+                    font: {
+                        color: "rgb(173, 181, 189)",
                     }
                 };
                 Plotly.newPlot("bubble", mapdata, layout);
