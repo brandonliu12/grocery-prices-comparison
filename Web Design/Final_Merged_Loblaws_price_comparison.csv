@@ -1,0 +1,840 @@
+product id,product name,Edmonton,Vancouver,Ottawa,Toronto
+1,100% Carrot,NaN,9.99,6.99,9.99
+2,100% Pomegranate Juice,6.99,15.99,6.99,6.99
+3,4 Inch Cilantro Pot,3.99,3.99,NaN,NaN
+4,4 Inch Oregano Pot,3.99,3.99,NaN,NaN
+5,50-50 Blend - A Blend of Baby Spinach and Field Greens,6.99,6.99,6.49,NaN
+6,Abate Fetel Pears,NaN,NaN,1.58,1.58
+7,Acorn Squash,5.54,5.54,5.54,5.54
+8,Alphonso mango,NaN,NaN,5.99,5.99
+9,Amazing Mango,6.99,9.99,6.99,6.99
+10,Ambrosia Apples,1.45,1.45,8.99,8.99
+11,Anaheim Hot Peppers,NaN,NaN,NaN,4.99
+12,Antiox,3.99,NaN,NaN,NaN
+13,Apple Cider Vin Pouch 45 Ml,NaN,0.59,0.59,0.59
+14,Apple Cosmic Crisp,1.85,1.85,2.11,NaN
+15,Apricots,1.08,NaN,0.92,0.92
+16,"Artichokes, Large",NaN,NaN,NaN,2.99
+17,Arugula,NaN,NaN,4.99,4.99
+18,Arugula & Baby Spinach Salad Mix,4.99,4.99,4.99,4.99
+19,Asian Salad,7.49,7.49,7.49,NaN
+20,Asparagus,6.49,6.49,5.19,5.19
+21,Ataulfo Mango,2.99,2.99,1.99,1.99
+22,Ataulfo Mangoes 3 Count,NaN,NaN,NaN,4.99
+23,Avocado,1.99,1.99,2.99,2.99
+24,Avocado Ranch Chopped Salad Kit,NaN,NaN,6.99,NaN
+25,Avocado Salad,9.0,9.0,NaN,NaN
+26,Avocados Bag,6.49,6.49,5.99,5.99
+27,"Avocados, Bag",6.99,6.99,6.99,6.99
+28,Axiany Cherry Tomatoes,3.99,3.99,NaN,5.99
+29,Baby Arugula,4.99,4.99,4.99,4.99
+30,Baby Arugula Spinach Blend,NaN,4.99,NaN,4.99
+31,Baby Bok Choy,NaN,NaN,4.35,4.35
+32,Baby Corn,NaN,NaN,NaN,5.99
+33,Baby Eggplants (1 pack),NaN,NaN,2.77,2.77
+34,Baby Napa,NaN,NaN,NaN,6.59
+35,Baby Peeled Carrots,NaN,NaN,5.99,NaN
+36,Baby Spinach,6.99,9.0,6.49,6.49
+37,Baby Spinach And Tender Red Lettuce,NaN,4.99,4.99,NaN
+38,Bacon Caesar Chop Salad Kit,NaN,6.99,6.99,NaN
+39,Balsamic Vinaigrette Pouch,0.59,0.59,0.59,0.59
+40,Banana Oatmeal Granola Parfait with Mixed Berries,NaN,NaN,NaN,5.0
+41,"Bananas, Bunch",2.0,2.0,1.75,1.75
+42,Barbecue Ranch Chopped Salad Kit,NaN,6.99,6.99,NaN
+43,Bard Valley Natural Delights Pitted Medjool Dates,9.99,9.99,9.99,9.99
+44,Bartlett Pears,1.38,1.38,1.38,1.38
+45,Basil,NaN,5.49,4.99,2.99
+46,Bay Leaf,NaN,NaN,2.99,NaN
+47,Bean Runner,NaN,NaN,4.99,4.99
+48,Bean Sprouts,NaN,NaN,NaN,2.49
+49,Berry Boost,6.99,6.99,6.99,6.99
+50,Berry Boost Juice,NaN,NaN,4.99,4.99
+51,Beta Sweet Carrots,NaN,NaN,NaN,5.99
+52,"Bi-Colour Corn, Corn on the Cob",0.99,0.99,NaN,0.99
+53,"Bio Raw, Fiesta",NaN,NaN,NaN,12.0
+54,"Bio Raw, The Shred",NaN,NaN,NaN,12.0
+55,Black Figs,NaN,NaN,1.29,1.29
+56,Blackberries,NaN,NaN,4.99,4.99
+57,Blackberries 1 pint,8.99,8.99,8.99,8.99
+58,Blackberries 1/2 Pint,4.99,4.99,NaN,NaN
+59,Blood Orange Tarocco,NaN,NaN,2.89,NaN
+60,Blood Oranges,7.99,7.99,7.99,NaN
+61,Blue Goodness,6.99,6.99,6.99,6.99
+62,Blueberries,4.99,4.99,4.99,NaN
+63,Blueberries 1 pint,3.99,3.99,5.99,5.99
+64,Blueberries 1/2 pint,NaN,NaN,3.99,NaN
+65,Blueberry Parfait,5.0,5.0,5.0,NaN
+66,Bok Choy,3.51,3.51,2.98,NaN
+67,Bombay Chicken Salad,NaN,NaN,6.18,NaN
+68,Bosc Pears,NaN,1.69,NaN,1.45
+69,Broccoli,4.49,4.49,3.99,3.99
+70,Broccoli Cashew Crunch Salad,NaN,NaN,NaN,2.29
+71,Broccoli Crowns,3.34,3.34,3.34,3.34
+72,Broccoli Crunch Salad Kit,6.99,6.99,NaN,6.99
+73,Broccoli Florets,4.99,9.99,4.99,4.99
+74,"Broccoli Salad, Mini",5.0,NaN,NaN,NaN
+75,Broccoli Slaw,4.49,7.99,4.49,4.49
+76,Broccolini,3.99,3.99,3.99,3.99
+77,Brussel Sprouts with Red Onions,7.0,7.0,7.0,NaN
+78,Brussels Sprouts,NaN,0.33,0.3,0.3
+79,Buttercup Squash,NaN,NaN,10.06,10.06
+80,Butternut Squash,12.38,12.38,12.38,12.38
+81,Butternut Squash Crinkle Fries,NaN,NaN,7.0,NaN
+82,C-Boost,6.99,6.99,6.99,6.99
+83,"Cabbage, Green",6.27,6.27,4.77,4.77
+84,Cactus Pears 12X4ct,NaN,NaN,3.99,3.99
+85,Caesar Salad Chop Kit,6.99,6.99,NaN,NaN
+86,Caesar Salad Family Size,17.0,NaN,17.0,17.0
+87,Caesar Salad Kit,5.99,7.99,5.99,7.99
+88,Caesar Salad Mini,5.0,5.0,5.0,NaN
+89,Caesar Salad with Toppings Single Sized,6.99,6.99,5.99,5.99
+90,"Caesar Salad, No Bacon",NaN,5.0,NaN,NaN
+91,California Salad,9.0,NaN,NaN,NaN
+92,Canadian Reds Lettuce,5.99,5.99,NaN,NaN
+93,Cantaloupe,4.99,4.99,5.99,5.99
+94,Cantaloupe Halves,6.0,NaN,NaN,NaN
+95,Cantaloupe Slices,6.0,NaN,6.0,6.0
+96,"Caprese Salad, Mini",10.0,NaN,NaN,NaN
+97,Car Cara Orange,NaN,NaN,6.49,NaN
+98,Caramel Dip,NaN,NaN,NaN,5.99
+99,Caramel Dip Snack,6.49,6.49,6.49,6.49
+100,Caribbean Avocado,5.99,NaN,3.99,3.99
+101,Carrot Chips,NaN,NaN,2.99,2.99
+102,Carrots,0.57,0.57,3.99,3.99
+103,Carrots & Celery,6.0,6.0,NaN,NaN
+104,Carrots & Cucumber,6.0,6.0,6.0,NaN
+105,Carrots & Snap Peas,NaN,6.0,NaN,NaN
+106,Carrots 2 LB,2.99,2.99,NaN,NaN
+107,Carrots 5lb Bag,6.99,6.99,NaN,NaN
+108,"Carrots, Bunched",2.99,2.99,NaN,3.99
+109,Cassava,3.73,NaN,3.73,3.73
+110,Cauliflower,5.99,5.99,4.99,4.99
+111,Cauliflower And Broccoli,6.0,6.0,6.0,NaN
+112,Cauliflower Florets,6.0,6.0,6.0,NaN
+113,Cauliflower Slaw,4.49,4.49,4.49,NaN
+114,Cauliflower Steak,10.0,NaN,NaN,NaN
+115,"Cauliflower, Kale & Cranberry Salad",NaN,NaN,2.29,2.29
+116,Celery Hearts,5.99,5.99,6.99,5.99
+117,Celery Root,8.34,NaN,4.16,4.16
+118,Celery Stalks,3.99,3.99,4.99,4.99
+119,Celery Sticks,NaN,4.0,NaN,NaN
+120,Cello Spinach,4.99,4.99,4.99,4.99
+121,"Chanterelle Mushrooms, Dried",5.99,5.99,5.99,5.99
+122,Chayote Squash,1.69,NaN,NaN,7.69
+123,Cheddar and Bacon Potato Salad,NaN,NaN,NaN,2.29
+124,Cherry Tomatoes,NaN,NaN,5.99,NaN
+125,"Chick Pea Salad, Mini",5.0,NaN,NaN,NaN
+126,Chick Pea/Artichoke/Sundried Tomato Salad,NaN,NaN,7.79,7.79
+127,Chicken BLT Salad Mini,5.0,NaN,5.0,NaN
+128,Chicken Caesar Salad Family Size,17.0,17.0,17.0,17.0
+129,Chicken Caesar Salad Mini,5.0,5.0,5.0,5.0
+130,"Chicken Ceasar Salad, Mini No Bacon",5.0,5.0,NaN,NaN
+131,Chicken Salad,NaN,2.29,2.29,2.29
+132,Chickpea Salad,9.0,9.0,NaN,NaN
+133,Chinese Broccoli (gai lan),NaN,NaN,NaN,5.37
+134,"Chinese Carrots, Jumbo",4.07,4.07,NaN,3.26
+135,Chinese Napa Cabbage,6.15,6.15,NaN,4.92
+136,Chipotle Chop Salad Kit,6.99,6.99,6.99,6.99
+137,Chives,3.29,NaN,2.99,NaN
+138,Chocolate Dip Original,NaN,NaN,1.5,1.5
+139,Chocolate Granola Packed Parfait with Mixed Berries,NaN,NaN,NaN,5.0
+140,Chop Chop Kit Everything Caesar,6.99,6.99,6.99,6.99
+141,Chop Chop Kit Teriyaki Pineapple,6.99,6.99,6.99,6.99
+142,Chop Chop Kit Tropical Thai,NaN,NaN,NaN,6.99
+143,Chop Honey Citrus Salad,NaN,7.49,7.49,7.49
+144,Chop Kale Caesar,7.49,7.49,NaN,NaN
+145,Chopped Mexican Style Street Corn Salad Kit,6.99,6.99,6.99,6.99
+146,Chopped Romaine,8.99,8.99,NaN,NaN
+147,"Chopped Salad Kit, Buffalo Ranch",6.99,6.99,6.99,6.99
+148,"Chopped Salad Kit, Dill Pickle",6.99,6.99,6.99,6.99
+149,"Chopped Salad Kit, Maple Bourbon Bacon",6.99,NaN,6.99,6.99
+150,"Chopped Salad Kit, Steakhouse",NaN,6.99,NaN,6.99
+151,"Chopped Salad Kit, Thai Style Chili Mango",NaN,6.99,6.99,NaN
+152,Chunky Bowl,NaN,NaN,5.99,5.99
+153,Cilantro,NaN,1.99,2.69,2.69
+154,Classic Bowl,5.99,5.99,5.99,5.99
+155,Classic Coleslaw,2.29,NaN,2.29,2.29
+156,Cobb Salad with Cheddar Chips,NaN,NaN,9.0,9.0
+157,Cobb with Cheddar Salad Mini,5.0,5.0,5.0,5.0
+158,Cocktail Tomatoes,NaN,NaN,4.99,4.99
+159,Coconut Rolled Medjool Dates,NaN,NaN,NaN,8.99
+160,Coconuts,3.99,NaN,2.49,NaN
+161,Cold Pressed Juice Be Well,5.99,5.99,5.99,NaN
+162,Cold Pressed Juice C Well,NaN,5.99,5.99,5.99
+163,Cold Pressed Juice Greens,5.99,5.99,5.99,5.99
+164,Cold Pressed Juice Played,5.99,5.99,5.99,5.99
+165,Cold Pressed Lemonade,6.0,6.0,6.0,6.0
+166,Cold-Pressed Juice Better Together Grapefruit Orange Ginger,NaN,NaN,8.99,8.99
+167,Cold-Pressed Juice Magic Sip,NaN,NaN,8.99,8.99
+168,Coleslaw,3.49,3.49,3.49,3.49
+169,Collagen Booster Glow Multipack,NaN,NaN,14.99,14.99
+170,Collard Greens,NaN,NaN,3.99,3.99
+171,Colossal Garlic,NaN,NaN,1.76,NaN
+172,Cooked Beets,5.99,5.99,4.99,4.99
+173,Cored Pineapple,7.49,7.49,NaN,NaN
+174,Corn & Pepper Quinoa,22.9,22.9,NaN,NaN
+175,Corn On The Cob,5.99,5.99,4.99,4.99
+176,"Corn Pepper Zucchini Red Pepper Kebab, 2 pack",NaN,6.0,NaN,NaN
+177,"Corn Pepper Zucchini Red Pepper Kebab, 4 pack",10.0,NaN,NaN,NaN
+178,Cranberry Kombucha,NaN,NaN,4.99,NaN
+179,Creamy Golden Potatoes,NaN,NaN,3.99,NaN
+180,Creamy Greek Pouch 44Ml,NaN,NaN,0.59,NaN
+181,Cremini Mushrooms,0.36,0.36,NaN,NaN
+182,Crumbled Cauliflower,NaN,4.99,NaN,NaN
+183,Cubanelle Peppers,NaN,NaN,1.87,1.87
+184,"Cubed Kiwi & Strawberries, Small",NaN,NaN,NaN,6.0
+185,Curly Parsley,2.69,2.69,2.69,NaN
+186,Cut Papaya Halves,5.0,NaN,NaN,NaN
+187,Daily Greens,NaN,NaN,6.99,6.99
+188,Dandelion Greens,NaN,NaN,4.99,4.99
+189,Dates Cups,3.69,NaN,NaN,NaN
+190,Dates Medjool,NaN,16.99,NaN,14.99
+191,Decadent Blueberry Parfait,5.0,NaN,NaN,NaN
+192,Decadent Strawberry Parfait,5.0,NaN,NaN,NaN
+193,Deluxe Bean Salad,NaN,NaN,5.5,5.5
+194,Deluxe Neptune Salad,NaN,NaN,NaN,2.29
+195,Detox 60 ml,3.99,NaN,NaN,NaN
+196,"Diced Mango, Small",6.0,NaN,NaN,NaN
+197,"Diced Papaya, Small",6.0,NaN,NaN,NaN
+198,Dill,NaN,NaN,2.99,2.99
+199,Dill Refrigerated Dip,5.99,5.99,5.99,5.99
+200,Dip Organic Ranch,5.49,NaN,5.49,5.49
+201,Dragon Fruit,4.99,NaN,NaN,NaN
+202,Dragon Fruit Parfait,NaN,5.0,NaN,NaN
+203,Dressing And Dip Caesar Light,NaN,NaN,0.59,NaN
+204,Dressing Blue Cheese,0.59,NaN,NaN,0.59
+205,Dressing Caesar,0.59,0.59,NaN,0.59
+206,Dried Mangos,NaN,NaN,NaN,9.99
+207,Dried Porcini Mushrooms,5.99,5.99,5.99,5.99
+208,Dried Turkish Apricots,3.99,3.99,NaN,3.49
+209,Dried Turkish Figs,2.99,2.99,NaN,2.99
+210,Duda Celery Sticks,5.99,5.99,NaN,5.99
+211,Early Bird Smoothie,NaN,NaN,8.99,8.99
+212,Eddoes,NaN,NaN,1.32,1.32
+213,"Eggplant, Baby",0.55,NaN,NaN,NaN
+214,Elixir Lemon+Ginger+Honey,NaN,3.99,NaN,NaN
+215,Empire Apples,NaN,NaN,5.99,5.99
+216,Endive,NaN,NaN,5.99,5.99
+217,English Cucumber,NaN,1.99,1.29,1.29
+218,English Cucumber 3Ct,NaN,NaN,3.49,3.49
+219,Escarole,NaN,NaN,NaN,3.49
+220,Everything Ranch Salad Kit,NaN,6.99,6.99,NaN
+221,Fennel,5.99,5.99,5.49,5.49
+222,Fenugreek,2.99,NaN,NaN,NaN
+223,Fiery Ginger,NaN,NaN,3.99,3.99
+224,Fiery Ginger Juice,NaN,NaN,14.99,14.99
+225,Finger Hot Hot Peppers,NaN,NaN,4.99,4.99
+226,Fingerling Potatoes,4.99,4.99,4.99,4.99
+227,Flavour Burst Sungold Golden Kiwi,NaN,NaN,7.99,7.99
+228,Forelle Pears,NaN,NaN,1.21,1.21
+229,French Bean,NaN,8.99,NaN,8.99
+230,French Beans,5.99,5.99,5.99,5.99
+231,French Onion Refrigerated Dip,5.99,5.99,5.99,5.99
+232,"Fresh Apple, Blueberry, Cranberry, Mint Juice",13.0,NaN,13.0,7.0
+233,"Fresh Apple, Carrot, Beet, Lemon Juice",13.0,NaN,7.0,13.0
+234,"Fresh Apple, Lemon, Ginger, Turmeric Juice",13.0,7.0,13.0,13.0
+235,Fresh Banana Strawberry Smoothie,5.99,5.99,5.99,5.99
+236,"Fresh Berry Bowl, Small",7.0,7.0,NaN,NaN
+237,Fresh Coconut Young,5.99,5.99,4.99,4.99
+238,"Fresh Creamer Potatoes Roasted Garlic, Rosemary & Thyme",4.99,4.99,4.99,NaN
+239,Fresh Creamer Potatoes Smoked Salt,4.99,NaN,4.99,4.99
+240,"Fresh Cut Fruit Salad, Small",7.0,7.0,7.0,NaN
+241,"Fresh Dill, Baby",3.99,3.99,3.99,3.99
+242,Fresh Fruit Snack Cup,NaN,6.0,NaN,NaN
+243,Fresh Green Spinach Mango Smoothie,5.99,NaN,5.99,NaN
+244,Fresh Guacamole,NaN,4.95,NaN,NaN
+245,"Fresh Guacamole, Small",3.99,NaN,3.99,NaN
+246,Fresh Mango Pineapple Smoothie,5.99,5.99,NaN,NaN
+247,"Fresh Mint, 4"" Pot",NaN,NaN,4.99,NaN
+248,Fresh Orange Juice,6.0,6.0,6.0,NaN
+249,"Fresh Orange, Spinach, Kale, Celery Juice",7.0,7.0,NaN,13.0
+250,Fresh Poultry Herb Blend,3.29,3.29,2.99,2.99
+251,"Fresh Rosemary, 4"" Pot",NaN,NaN,4.99,NaN
+252,Fresh Salsa,4.16,4.16,NaN,NaN
+253,"Fresh Thyme, 4"" Pot",NaN,NaN,4.99,NaN
+254,Frisee Lettuce 2-pack,NaN,NaN,NaN,4.99
+255,"Fruit Dip, Cream Cheese",NaN,5.99,5.99,5.99
+256,Fruit Salad Large,10.0,NaN,10.0,10.0
+257,Fuji Apples,1.58,1.58,1.58,NaN
+258,Fuyu Persimmon,2.99,NaN,2.49,2.49
+259,Gala Apples,1.94,1.94,1.94,1.94
+260,Gala Apples 3Lb Bag,10.99,10.99,9.99,9.99
+261,Gala Apples 3lb Bag,7.99,7.99,NaN,NaN
+262,Garden Salad,8.99,4.49,4.49,NaN
+263,Garden Salad Mini,5.0,5.0,5.0,5.0
+264,Garden Spring Mix Salad,NaN,NaN,9.0,NaN
+265,Garden Vegetable Spring Mix,9.0,NaN,9.0,NaN
+266,Garlic Bulbs,5.99,NaN,NaN,6.49
+267,"Garlic Bulbs, 3-count",1.99,1.99,1.29,1.29
+268,"Garlic, Peeled",NaN,NaN,NaN,3.49
+269,Genuine Coconut Organic Coconut Chunks,NaN,NaN,5.99,NaN
+270,Genuine Coconut Organic Coconut Topping,NaN,NaN,6.99,6.99
+271,Ginger,2.31,2.31,1.85,1.85
+272,Ginger & Lime Infused Lemonade ,NaN,NaN,NaN,6.0
+273,Ginger Carrot Turmeric,9.99,9.99,9.99,9.99
+274,Ginger Tumeric Kombucha,NaN,NaN,4.99,4.99
+275,Ginger Turmeric Organic Kombucha,NaN,NaN,9.99,9.99
+276,Gold Cored Pineapple,NaN,NaN,6.99,6.99
+277,Golden Figs,5.99,5.99,5.99,5.99
+278,Good Leaf Baby Arugula,NaN,NaN,NaN,5.99
+279,Good Ol' Macaroni Salad,NaN,NaN,NaN,2.29
+280,Granadilla,2.99,2.99,2.49,2.49
+281,Granny Smith Apples,8.99,8.99,NaN,9.99
+282,Granny Smith Apples 3Lb Bag,10.99,10.99,11.99,11.99
+283,Grape Tomato 907G,7.99,7.99,6.99,6.99
+284,Grape Tomatoes,4.99,4.99,3.99,3.99
+285,Greek Quinoa Salad Kit,1.99,NaN,NaN,1.99
+286,"Greek Quinoa Spring Mix Salad, Mini",NaN,5.0,NaN,NaN
+287,Greek Salad Family Size,17.0,17.0,17.0,17.0
+288,Greek Vinaigrette Pouch,NaN,0.59,NaN,0.59
+289,Greek Yogurt Parfait,5.0,NaN,5.0,5.0
+290,Green Beans,5.99,0.5,5.99,4.99
+291,Green Garlic,NaN,NaN,5.99,5.99
+292,Green Goodness,NaN,9.99,4.99,4.99
+293,Green Leaf Lettuce,3.99,3.99,3.99,3.99
+294,Green Onion,1.99,1.99,1.49,1.49
+295,Green Peppers,5.99,5.99,NaN,NaN
+296,Green Seedless Grapes,13.47,13.47,13.47,13.47
+297,Green Swiss Chard,4.99,4.99,3.99,3.99
+298,Green Thai Hot Peppers,5.99,5.99,4.99,4.99
+299,Greenbelt Organic Arugula,NaN,NaN,5.99,5.99
+300,Greenbelt Organic Super Crunch,NaN,NaN,5.99,5.99
+301,Greenhouse Peppers,NaN,4.99,NaN,5.99
+302,"Greenhouse Peppers, Orange",2.64,2.64,2.11,2.11
+303,"Greenhouse Peppers, Yellow",2.75,2.75,2.2,2.2
+304,Grilled Chicken Caesar Salad,NaN,NaN,2.29,2.29
+305,Grilling Veggie Kabobs,8.0,NaN,NaN,NaN
+306,Guacamole Crunch Chopped Salad Kit,NaN,6.99,6.99,NaN
+307,Guava,6.05,NaN,7.71,NaN
+308,"Halloom Pineapple Kebab, 2 pack",6.0,NaN,NaN,NaN
+309,Halo Mandarin,NaN,NaN,9.99,9.99
+310,Hami Melons,14.75,14.75,NaN,14.75
+311,Heirloom Tomatoes,NaN,NaN,2.42,2.42
+312,Hibiscus & Rose Hip Infused Lemonade ,NaN,NaN,6.0,NaN
+313,Homestyle Coleslaw with Yogurt Dressing,NaN,NaN,2.29,2.29
+314,Honey Dijon Kale,6.49,6.49,6.49,NaN
+315,Honey Pitted Dates,NaN,NaN,4.99,4.99
+316,Honey Roasted Pistachios,7.99,7.99,7.99,NaN
+317,Honeycrisp Apples,2.11,2.11,1.32,1.32
+318,Honeydew Cubed Small,6.0,6.0,6.0,NaN
+319,Honeydew Melon,6.99,6.99,7.99,NaN
+320,Honeydew Melon Halves,6.0,NaN,6.0,NaN
+321,Honeydew Slices,6.0,NaN,NaN,6.0
+322,Horseradish,NaN,NaN,NaN,6.94
+323,Imperfect Apples,NaN,NaN,7.99,7.99
+324,Indian Okra,NaN,NaN,NaN,4.1
+325,Ink. Lemonade Charcoal,5.99,5.99,5.99,NaN
+326,Ink. Lemonade Spirulina,5.99,5.99,NaN,NaN
+327,Inside Job,NaN,NaN,14.99,14.99
+328,Italian Eggplants,NaN,NaN,1.58,1.58
+329,Italian Parsley,NaN,2.69,NaN,2.69
+330,Jalapeno Hot Peppers,5.99,5.99,4.99,4.99
+331,Jalapeno Peppers,0.5,NaN,0.55,0.55
+332,Jamaican Ginger,NaN,NaN,NaN,4.05
+333,Jamaican Sweet Potatoes,NaN,NaN,NaN,5.28
+334,Japanese Yams,7.73,NaN,NaN,6.26
+335,Jicama,4.23,NaN,3.99,3.99
+336,"Juice, 100% Pomegranate",9.99,9.99,9.99,9.99
+337,Kabocha Squash,13.51,13.51,NaN,NaN
+338,Kale,3.99,3.99,3.99,3.99
+339,Kale Slaw,4.49,4.49,4.49,NaN
+340,Kale Spinach Pineapple Orange Blend,NaN,14.0,NaN,NaN
+341,"Kale, Chard and Spinach Salad Mix",NaN,4.99,NaN,NaN
+342,Kent Mango,NaN,3.49,NaN,NaN
+343,Kiwi Fruit,NaN,7.99,6.99,NaN
+344,Kiwis,NaN,1.09,1.09,1.09
+345,Kohlrabi,3.23,NaN,NaN,3.23
+346,Kombucha Ginger Lemon,NaN,5.99,5.99,5.99
+347,Kombucha Lemon Lime & Mint,NaN,NaN,5.99,NaN
+348,Kombucha Wild Berry,5.99,5.99,5.99,NaN
+349,Large Caesar Salad,NaN,12.0,12.0,12.0
+350,Large Chicken Caesar Salad,12.0,12.0,12.0,12.0
+351,Large Greek Salad,12.0,12.0,12.0,12.0
+352,Large House Cheddar Salad,12.0,12.0,12.0,12.0
+353,Large House Salad,12.0,12.0,12.0,12.0
+354,Large Lobster Club Salad,17.0,NaN,NaN,NaN
+355,Large Mediterranean Tuna Salad,13.0,NaN,NaN,NaN
+356,Large Mexican Style Beef Taco Salad,13.0,13.0,13.0,NaN
+357,Large Neptune Crab Salad,13.0,NaN,NaN,NaN
+358,Large Organic Pineapple,NaN,NaN,5.99,5.99
+359,Large Shrimp & Bacon Caesar Salad,13.0,13.0,NaN,NaN
+360,Large Steak & Egg Salad,13.0,13.0,13.0,NaN
+361,Lavender & Elderflower Infused Lemonade,NaN,NaN,6.0,6.0
+362,Lebanese Tabbouleh Salad,NaN,NaN,8.47,8.47
+363,Leeks,6.99,6.99,5.99,5.99
+364,Lemon,0.99,0.99,0.99,0.99
+365,"Lemon Grass, 2 Pack",NaN,NaN,2.99,2.99
+366,Lemongrass,1.99,1.99,NaN,NaN
+367,Lemons,NaN,NaN,5.99,5.99
+368,Lemons 3lb Bag,7.99,7.99,NaN,NaN
+369,Lettuce Green,3.99,NaN,NaN,NaN
+370,Lettuce Iceberg,3.99,3.99,3.99,3.99
+371,Lettuce Little Gem,NaN,NaN,5.99,5.99
+372,Lightly Dried Basil,5.99,NaN,NaN,5.99
+373,Lightly Dried Cilantro,5.99,NaN,NaN,5.99
+374,Lightly Dried Parsley,5.99,NaN,NaN,5.99
+375,"Lightly Dried, Ginger Bowl",NaN,NaN,NaN,5.99
+376,Lime Herbal Kombucha,NaN,NaN,4.99,4.99
+377,Lime Lemongrass Organic Kombucha,NaN,NaN,9.99,9.99
+378,Limes,0.99,0.99,0.99,0.99
+379,Live Lettuce Boston,3.99,3.99,3.49,3.49
+380,"Live Lettuce Green, 2-pack",NaN,NaN,5.99,5.99
+381,"Live Lettuce Red/Green, 2-pack",NaN,NaN,5.99,5.99
+382,Live Lettuce Tri Mix - 1 Unit,3.99,3.99,NaN,3.99
+383,"Live Lettuce Trio, 2-pack",NaN,NaN,5.99,NaN
+384,LoBok (Daikon Radish),3.28,3.28,3.09,3.09
+385,Loaded Potato Salad,2.29,NaN,NaN,NaN
+386,Loads Of Garlic Caesar Salad Kit,6.99,6.99,6.99,6.99
+387,Long Eggplants,1.92,1.92,NaN,NaN
+388,Long Eggplants (1Pack),NaN,NaN,12.76,12.76
+389,Lunch Size Veg and Dip 600G,8.0,NaN,8.0,NaN
+390,Mandarin Oranges,2.25,6.99,4.99,4.99
+391,Mango,NaN,NaN,2.99,2.99
+392,Mango Fruit Parfait,NaN,5.0,NaN,NaN
+393,Mango Red 3Ct,NaN,5.99,NaN,4.99
+394,Mango Spears,8.0,NaN,NaN,NaN
+395,"Manzano Bananas, Bunch",NaN,NaN,NaN,3.78
+396,"Marinated Tofu Kebab, 2-Pack",6.0,NaN,NaN,NaN
+397,"Marinated Tofu Kebab, 4-Pack",10.0,NaN,NaN,NaN
+398,Marjoram,NaN,NaN,NaN,2.99
+399,Marzetti Chocolate Dip 250g,NaN,NaN,5.99,5.99
+400,Matchstick Carrots,NaN,NaN,NaN,2.99
+401,McIntosh Apples,NaN,NaN,5.99,1.1
+402,McIntosh Apples 3lb Bag,6.99,6.99,NaN,NaN
+403,"Mediterranean Tuna Salad, Mini",5.0,5.0,NaN,NaN
+404,Mexican Street Corn Salad,NaN,NaN,5.7,5.7
+405,"Mexican Style Beef Taco Salad, Family Size",NaN,19.0,NaN,NaN
+406,Micro Arugula,NaN,NaN,4.79,4.79
+407,Micro Broccoli,NaN,NaN,4.79,NaN
+408,Microwave Ready Garlic Parsley Potatoes,NaN,NaN,4.99,4.99
+409,Microwave Ready Lemon and Garden Herb Potatoes,4.99,4.99,4.99,4.99
+410,Microwave Ready Savoury Herb Potatoes,4.99,4.99,4.99,4.99
+411,"Mini Bananas, Bunch",NaN,NaN,2.17,2.17
+412,Mini Carrots,5.99,5.99,4.99,4.99
+413,Mini Carrots 1lb,2.99,2.99,NaN,NaN
+414,Mini Cobb Salad,5.0,NaN,NaN,NaN
+415,Mini Cucumbers,4.99,4.99,4.99,4.99
+416,Mini Garden Cheddar Salad,5.0,NaN,5.0,NaN
+417,Mini Greek Salad,NaN,5.0,NaN,5.0
+418,Mini Medjools Organic Cranberry Pistachio,11.99,NaN,9.99,NaN
+419,Mini Medjools Sweet & Salty Almond,8.99,NaN,7.99,7.99
+420,Mini Mexican Beef Taco Salad,NaN,5.0,5.0,NaN
+421,Mini Potato Trio,7.99,7.99,NaN,7.99
+422,Mini Seedless Watermelon,7.99,7.99,5.99,5.99
+423,Minis,6.99,NaN,6.99,6.99
+424,Mint,3.29,NaN,2.99,2.99
+425,"Mint, Fresh",1.99,NaN,NaN,1.99
+426,Mixed Berry Blend,6.0,NaN,NaN,NaN
+427,Mixed Berry Juice,12.0,NaN,NaN,NaN
+428,Mixed Cut Peppers,6.0,6.0,NaN,NaN
+429,Mixed Dried Mushrooms,5.99,5.99,5.99,NaN
+430,Mixed Fruit Parfait,5.0,5.0,5.0,NaN
+431,Mixed Greens,4.99,4.99,4.49,4.49
+432,Mixed Little Gems,4.99,NaN,NaN,4.99
+433,Mixed Melon Cubed Large,10.0,10.0,10.0,NaN
+434,Mixed Peppers (6 Pack),NaN,NaN,7.99,NaN
+435,Mixiany Cherry Tomatoes,NaN,NaN,5.99,NaN
+436,Mixiany Tomato 454G,7.49,7.49,NaN,NaN
+437,Mocha Cappuccino,6.99,6.99,6.99,6.99
+438,"Morel Mushrooms, Dried",NaN,NaN,12.99,12.99
+439,Morning Glory Juice,NaN,NaN,8.99,8.99
+440,"Mucci, Sundrops Tomato",NaN,NaN,3.99,3.99
+441,"Mushroom Kebab, 2 pack",6.0,NaN,6.0,NaN
+442,"Mushroom Kebab, 4 pack",10.0,NaN,NaN,NaN
+443,"Mushroom White, Sliced",3.99,3.99,3.69,3.69
+444,Naturally Imperfect Avocados,9.99,9.99,9.99,9.99
+445,Naturally Imperfect Lemons,NaN,6.99,NaN,NaN
+446,Naturally Imperfect Lemons 3lb Bag,NaN,NaN,5.99,5.99
+447,Naturally Imperfect Limes,NaN,5.99,6.99,6.99
+448,Naturally Imperfect Mixed Sweet Peppers 2.5lb Bag,5.99,5.99,7.99,NaN
+449,Navel Orange,2.31,2.31,2.31,2.31
+450,"Navel Orange, Medium",2.24,2.24,NaN,NaN
+451,Navel Oranges,7.99,7.99,7.99,7.99
+452,Nectarine,NaN,NaN,8.99,NaN
+453,Nectarines,NaN,NaN,2.16,2.16
+454,"Neptune Crab Salad, Mini",5.0,NaN,NaN,NaN
+455,No shell BBQ Pistachios,9.99,9.99,8.99,8.99
+456,"No shell Pistachios, Sea Salt & Vinegar",9.99,NaN,NaN,8.99
+457,Okra,1.21,1.21,NaN,NaN
+458,Okra (1 pack),NaN,NaN,NaN,5.08
+459,"Onions, Medium",NaN,30.49,NaN,NaN
+460,Ontario Baby Spinach,NaN,NaN,5.99,5.99
+461,Ontario Greenhouse-Grown Strawberries,6.99,6.99,5.99,5.99
+462,Ontario Spring Mix,NaN,NaN,5.99,NaN
+463,Orange Juice,12.0,12.0,NaN,NaN
+464,Orange Wedges Small,5.0,NaN,5.0,NaN
+465,Oranges Wedges,7.0,NaN,NaN,NaN
+466,Oregano,NaN,3.29,2.99,2.99
+467,Org Kom Rasp Lemn 700Ml,5.99,5.99,5.99,5.99
+468,Organic Asparagus,6.99,6.99,NaN,6.99
+469,Organic Baby King Oyster Mushrooms,NaN,NaN,NaN,5.99
+470,"Organic Bananas, Bunch",2.88,2.88,2.88,2.88
+471,Organic Bartlett Pears,NaN,NaN,NaN,1.76
+472,Organic Basil,3.29,3.29,NaN,NaN
+473,Organic Beet Bunch,NaN,NaN,5.99,5.99
+474,Organic Black Kale,NaN,NaN,4.99,4.99
+475,Organic Black Oyster Whole Mushrooms,NaN,NaN,3.99,3.99
+476,Organic Blackberries,6.49,6.49,5.99,NaN
+477,Organic Booster Farma-C+,NaN,NaN,14.99,3.99
+478,Organic Booster Inside Job,NaN,NaN,3.99,3.99
+479,Organic Booster Lullaby,NaN,NaN,3.99,3.99
+480,Organic Broccoli,6.99,6.99,5.99,5.99
+481,Organic Broccoli Florets,6.99,NaN,6.99,6.99
+482,Organic Brussel Sprouts,9.99,NaN,NaN,6.99
+483,Organic Button White Mushrooms,4.99,NaN,3.99,3.99
+484,Organic Cantaloupe,6.99,NaN,NaN,6.99
+485,Organic Carrots,4.49,4.49,4.69,4.69
+486,Organic Carrots Bunched,4.99,4.99,4.99,4.99
+487,Organic Cauliflower,7.49,7.49,6.99,6.99
+488,Organic Chives,NaN,3.29,NaN,NaN
+489,Organic Collard Greens,NaN,NaN,NaN,4.99
+490,Organic Cooked Beets,6.99,6.99,4.99,4.99
+491,Organic Cremini Mushrooms,8.99,NaN,8.99,8.99
+492,Organic Cucumber Mini,6.99,NaN,5.99,NaN
+493,Organic Curly Parsley,NaN,3.99,3.99,3.99
+494,Organic Dairy Free Shake Rococoa,NaN,NaN,7.99,7.99
+495,Organic Dates,NaN,NaN,NaN,6.99
+496,Organic Dried Apricots,NaN,NaN,NaN,5.99
+497,Organic Dried Dates,NaN,NaN,NaN,5.99
+498,Organic Dried Figs,NaN,NaN,NaN,5.99
+499,Organic English Cucumber,NaN,NaN,3.99,3.99
+500,"Organic English Cucumber, Pack of 2",6.99,6.99,NaN,NaN
+501,Organic Enoki Mushrooms,NaN,NaN,4.49,4.49
+502,Organic Fennel,NaN,NaN,6.99,NaN
+503,Organic Field Greens & Baby Spinach - Salad Mix,6.99,6.99,6.99,6.99
+504,Organic French Beans,NaN,NaN,6.49,6.49
+505,Organic Garlic,NaN,3.49,3.99,NaN
+506,Organic Ginger,NaN,3.79,NaN,3.99
+507,Organic Gold Beet Bunch,NaN,NaN,5.99,NaN
+508,Organic Granny Smith Apples,NaN,NaN,1.67,NaN
+509,Organic Grape Tomatoes,NaN,NaN,9.99,9.99
+510,Organic Green Beans,NaN,NaN,6.99,6.99
+511,Organic Green Cabbage,11.53,NaN,NaN,7.68
+512,Organic Green Dandelion,NaN,NaN,4.99,4.99
+513,Organic Green Kale,4.99,4.99,4.99,4.99
+514,Organic Green Kiwi,5.99,NaN,NaN,NaN
+515,Organic Green Onions,1.99,1.99,2.29,NaN
+516,Organic Iceberg Lettuce,4.99,4.99,4.99,4.99
+517,Organic Italian Parsley,NaN,NaN,NaN,3.99
+518,Organic King Oyster Sliced Mushrooms,NaN,NaN,5.99,5.99
+519,Organic Leeks,6.99,6.99,5.99,5.99
+520,Organic Lemons,6.99,6.99,6.99,6.99
+521,Organic Lime,5.99,5.99,6.99,NaN
+522,Organic Mango,3.49,NaN,NaN,2.99
+523,Organic Mango Passionfruit Kombucha,5.99,5.99,5.99,5.99
+524,Organic Medjool Dates,11.99,11.99,11.99,11.99
+525,Organic Mini Carrots 1lb Bag,NaN,NaN,3.99,NaN
+526,Organic Mint,3.29,3.29,2.99,2.99
+527,Organic Mint Potted,NaN,NaN,NaN,3.99
+528,Organic Mushroom Umami Mix,NaN,8.99,NaN,4.99
+529,Organic Oregano Potted,NaN,NaN,NaN,3.99
+530,Organic Peppers,6.99,6.99,6.99,6.99
+531,Organic Peppers Mini 227G,NaN,NaN,6.99,6.99
+532,Organic Pink Grapefruit Smoothie,NaN,NaN,3.99,3.99
+533,Organic Rainbow Carrots,5.99,5.99,NaN,5.99
+534,Organic Rainbow Swiss Chard,4.99,4.99,4.99,4.99
+535,Organic Raspberries 1/2 pint,6.49,6.49,5.99,NaN
+536,Organic Raspberry Lemon Kombucha,NaN,NaN,3.99,3.99
+537,Organic Red Onions,NaN,NaN,NaN,5.49
+538,Organic Red Potatoes,6.99,6.99,7.99,7.99
+539,Organic Roma Tomatoes,NaN,5.99,NaN,NaN
+540,Organic Rosemary,3.29,3.29,NaN,2.99
+541,Organic Rosemary Potted,NaN,NaN,NaN,3.99
+542,Organic Russet Potatoes,5.49,NaN,NaN,NaN
+543,Organic Sage,NaN,NaN,NaN,3.99
+544,Organic Shake Vanilla Almond Brekky,NaN,NaN,7.99,7.99
+545,Organic Spaghetti Squash,13.77,13.77,NaN,11.8
+546,Organic Strawberries 1 LB,8.99,8.99,6.99,6.99
+547,Organic Sweet Potatoes 3lb Bag,9.99,9.99,6.99,6.99
+548,Organic Swiss Chard Greens,NaN,NaN,4.99,4.99
+549,Organic Thai Basil Potted,NaN,NaN,NaN,3.99
+550,Organic Thyme,3.29,3.29,2.99,2.99
+551,Organic Tomato On The Vine Red (1 Bunch),NaN,7.92,7.92,7.92
+552,Organic White Mushrooms,NaN,3.49,NaN,3.69
+553,Organic White Stuffer Mushrooms,NaN,NaN,NaN,5.99
+554,Organic Whole Cremini Mushroooms,6.49,6.49,NaN,NaN
+555,Organic Yellow Potatoes,6.99,6.99,7.99,7.99
+556,"Organic, Red Kale",NaN,NaN,4.99,4.99
+557,Organics Baby Cut Carrots,6.79,6.79,6.49,6.49
+558,Organics Baby Spinach,6.99,6.99,6.99,6.99
+559,Organics Field Greens Salad Mix,4.99,6.99,4.99,6.99
+560,Organics Multicolour Carrots,NaN,NaN,5.99,5.99
+561,Organics Portobello Mushroom Caps,6.99,NaN,5.99,5.99
+562,Organics Sliced Cremini Mushrooms,3.99,3.99,3.69,NaN
+563,Organics Sliced Portobello Mushrooms,5.49,NaN,NaN,5.99
+564,Organics Whole Button Cremini Mushrooms,4.29,4.29,3.99,3.99
+565,Organics Whole Cremini Mushrooms,3.49,NaN,3.69,3.69
+566,Organics Whole Oyster Mushrooms,4.99,NaN,3.99,3.99
+567,Organics Whole Shitake Mushrooms,4.99,4.99,4.99,4.99
+568,Organics Whole White Mushrooms,8.99,8.99,8.99,8.99
+569,Organics Yellow Onions,4.99,4.99,4.99,4.99
+570,Original Greek Acropolis Salad,NaN,NaN,5.73,5.73
+571,Oven BBQ Ready Garlic Herb Potatoes,NaN,NaN,4.99,4.99
+572,Oven BBQ Ready Onion Chive Potatoes,NaN,NaN,4.99,4.99
+573,Papaya,7.14,7.14,5.71,5.71
+574,Parsnip,NaN,NaN,1.92,NaN
+575,Parsnips 1lb Bag,NaN,NaN,5.99,5.99
+576,Parsnips 2lb Bag,6.49,6.49,NaN,NaN
+577,Passion Fruit,2.49,2.49,1.99,NaN
+578,Paste Basil,5.99,NaN,5.99,5.99
+579,Paste Chunky Garlic,5.99,NaN,NaN,5.99
+580,Paste Cilantro,5.99,5.99,5.99,5.99
+581,Paste Garlic,5.99,NaN,5.99,5.99
+582,Paste Ginger,5.99,NaN,5.99,5.99
+583,Paste Italian Herbs,5.99,5.99,5.99,5.99
+584,Paste Lemongrass,5.99,NaN,5.99,5.99
+585,Paste Thai Seasoning,5.99,NaN,NaN,5.99
+586,Pea Shoots,NaN,NaN,4.79,NaN
+587,Peach Kombucha,NaN,NaN,5.99,5.99
+588,Peaches,8.99,8.99,8.99,8.99
+589,Pearl Onion,NaN,NaN,2.99,2.99
+590,Pencil Hot Hot Peppers,NaN,NaN,4.99,4.99
+591,"Peppers, Mini",4.99,NaN,NaN,5.99
+592,Physalis (Gooseberries),NaN,NaN,4.99,4.99
+593,Pick-Me-Up For Energy Multipack,NaN,NaN,14.99,14.99
+594,Pineapple,5.99,5.99,5.49,5.49
+595,Pineapple Cubed Large,10.0,10.0,10.0,10.0
+596,Pineapple Cubed Small,6.0,6.0,6.0,6.0
+597,Pineapple Orange Raspberry Juice,6.0,NaN,NaN,NaN
+598,"Pineapple Vegetable Kebab, 2 pack",6.0,NaN,NaN,NaN
+599,"Pineapple Vegetable Kebab, 4 pack",10.0,10.0,NaN,NaN
+600,Pineapple/Straws Large,10.0,NaN,10.0,10.0
+601,Pink Lady Apples,1.38,1.38,1.61,1.61
+602,Pink Lady Apples 5lb Bag,11.99,11.99,NaN,NaN
+603,Pistachios Lightly Salted,12.99,NaN,NaN,11.99
+604,Pistachios No Shells Chili Roasted,9.99,9.99,NaN,8.99
+605,Pistachios No Shells Honey Roasted,NaN,NaN,8.99,8.99
+606,Pistachios No Shells Roasted Light Salt,9.99,9.99,8.99,NaN
+607,"Pistachios, Roasted & Unsalted",NaN,NaN,NaN,6.49
+608,"Pistachios, Salt & Pepper",NaN,6.99,NaN,6.49
+609,Pitted Honey Dates,7.99,7.99,6.99,6.99
+610,Plant-Based Collagen Booster Glow,NaN,NaN,3.99,3.99
+611,"Plantains, Single",1.16,1.16,NaN,NaN
+612,Poblano Hot Peppers,5.99,NaN,4.99,4.99
+613,Pomegranate,4.99,4.99,3.99,3.99
+614,Pomegranate Juice,NaN,9.99,NaN,9.99
+615,Popeye Baby Spinach Mix,4.49,4.49,NaN,NaN
+616,Popeye Select Spinach,11.99,11.99,11.99,11.99
+617,Poppyseed Pouch 44Ml,NaN,NaN,0.59,0.59
+618,Potato Baking Tray,4.99,4.99,NaN,4.99
+619,Potato Salad New Orleans,NaN,NaN,2.29,2.29
+620,Premium Baby Spinach With Chicken,9.0,9.0,9.0,NaN
+621,Premium Baby Spinach With Fruit & Nuts,9.0,9.0,NaN,NaN
+622,Premium Caesar Salad,NaN,9.0,NaN,9.0
+623,Premium Chicken BLT,9.0,9.0,9.0,9.0
+624,Premium Chicken Caesar Salad,9.0,9.0,NaN,9.0
+625,Premium Garden Veg Romaine,9.0,NaN,9.0,9.0
+626,Premium Garden Vegetable Spring Mix With Chicken Salad,9.0,NaN,NaN,NaN
+627,Premium Garden Vegetable With Cheese,9.0,NaN,9.0,NaN
+628,Premium Greek Classic,9.0,9.0,9.0,9.0
+629,Premium Large Vetable Platter (Minimum 24 Hours Notice Required),40.0,NaN,40.0,NaN
+630,Premium Radicchio,9.0,NaN,NaN,NaN
+631,Premium Sweet Kale Power Salad,9.0,NaN,9.0,NaN
+632,Premium Taco Salad,NaN,NaN,NaN,9.0
+633,Probiotic Hydrator Blue Lemonade,NaN,NaN,4.99,NaN
+634,Pumpernickel Snack,NaN,NaN,6.0,NaN
+635,Purple Eggplants,3.76,3.76,3.13,3.13
+636,Radicchio Lettuce,3.41,3.41,3.41,NaN
+637,Radicchio Treviso,NaN,NaN,11.0,11.0
+638,Radish,3.99,3.99,2.99,2.99
+639,Radishes,2.69,2.69,2.49,2.49
+640,Ranch Pouch 44Ml,0.59,0.59,0.59,0.59
+641,Ranch Refrigerated Dip,NaN,5.99,5.99,5.99
+642,Rapini,NaN,4.99,3.99,3.99
+643,Raspberries 1/2 pint,5.49,5.49,NaN,NaN
+644,Raspberry Banana Parfait,5.0,5.0,5.0,NaN
+645,Raspberry Pint,8.99,NaN,7.99,7.99
+646,"Raw, Organic Juice Deep Roots",NaN,NaN,7.99,7.99
+647,"Raw, Organic Juice Farma-C",NaN,NaN,NaN,7.99
+648,"Raw, Organic Juice Gatsby",NaN,NaN,7.99,NaN
+649,"Raw, Organic Juice the Good",NaN,NaN,7.99,NaN
+650,"Raw, Unsalted Pumpkin Seeds",2.29,2.29,2.29,2.29
+651,"Raw, Unsalted Sunflower Seeds",2.29,NaN,2.29,2.29
+652,"Ready Veggie, Kale Blend",5.99,5.99,5.99,NaN
+653,Red Anjou Pears,NaN,NaN,1.54,1.54
+654,"Red Bananas, Bunch",NaN,NaN,3.74,3.74
+655,Red Beets,1.04,1.04,1.04,1.04
+656,"Red Beets, Bunched",4.99,NaN,4.99,4.99
+657,Red Cabbage,5.84,5.84,4.96,4.96
+658,Red Cherries,13.71,13.71,7.83,7.83
+659,Red Delicious Apples,1.38,1.38,1.38,NaN
+660,Red Delicious Apples 3lb Bag,7.99,7.99,NaN,NaN
+661,Red Fresno Hot Peppers,5.99,NaN,NaN,NaN
+662,Red Goodness,6.99,6.99,6.99,6.99
+663,Red Grapefruit,2.99,7.99,2.99,9.99
+664,Red Leaf Lettuce,3.99,3.99,NaN,NaN
+665,Red Onion,2.44,2.44,2.19,2.19
+666,Red Onions,6.99,NaN,5.49,5.49
+667,Red Peppers,2.64,2.64,2.11,2.11
+668,Red Potatoes,6.99,6.99,5.99,5.99
+669,Red Potatoes 10lb Bag,8.49,NaN,6.99,6.99
+670,Red Prince Apple,NaN,NaN,9.99,9.99
+671,Red Seeded Watermelon,NaN,NaN,12.99,12.99
+672,Red Seedless Grapes,13.08,NaN,NaN,NaN
+673,Red Seedless Watermelon,8.99,8.99,7.99,7.99
+674,Red Swiss Chard,4.99,NaN,3.99,3.99
+675,Red Thai Hot Peppers,5.99,5.99,4.99,4.99
+676,Rhubarb,5.99,5.99,6.99,6.99
+677,Roasted Chestnuts,NaN,NaN,NaN,2.99
+678,Roasted Corn & Pepper Quinoa,NaN,NaN,9.62,9.62
+679,Roasted Peanuts In Shell,13.99,NaN,11.99,NaN
+680,"Roasted Peanuts, No Salt",7.99,NaN,6.99,6.99
+681,Roma Tomatoes,0.79,0.79,0.66,0.66
+682,"Romaine Heart, 3 Pack",3.99,3.99,NaN,2.99
+683,Romaine Hearts,9.99,NaN,NaN,9.99
+684,Romaine Lettuce,3.99,3.99,3.49,3.49
+685,Romaine Lettuce Hearts,NaN,7.99,6.99,6.99
+686,Romaine Salad,4.99,4.99,4.49,4.49
+687,Romaine Salad Family Size,15.0,15.0,15.0,15.0
+688,"Root Harvest Mix (cubed Parsnip, Carrots, Butternut Squash, Yams, Red Onions, Celery)",7.0,NaN,7.0,NaN
+689,Rose Spring Salad Mix,NaN,4.99,NaN,NaN
+690,Rosemary,3.29,3.29,2.99,2.99
+691,Royal Gala Apples,1.38,1.38,1.15,1.15
+692,Ruby Little Gems Potatoes,4.99,NaN,4.99,4.99
+693,Russet Potato,2.36,2.36,2.36,2.36
+694,Russet Potatoes,8.99,8.99,5.99,5.99
+695,Rutabaga,NaN,6.28,NaN,4.52
+696,Sage,3.29,3.29,2.99,NaN
+697,Salad Kit Chopped Sesame Wonton,6.99,6.99,6.99,NaN
+698,Salad Kit Sweet Kale Club Size,8.99,8.99,NaN,NaN
+699,Salted California Pistachios,6.49,6.49,5.99,5.99
+700,Salted Virginia Peanuts,4.99,NaN,NaN,3.99
+701,"Salted, Dry Roasted California Pistachios",NaN,26.99,NaN,NaN
+702,Savory,NaN,NaN,2.99,NaN
+703,Savoy Cabbage,5.35,5.35,NaN,4.28
+704,Scotch Bonnet Hot Peppers,NaN,NaN,NaN,4.99
+705,Sea Salt Pistachios,7.99,NaN,7.99,7.99
+706,Seafood Vinaigrette Salad,NaN,NaN,4.58,4.58
+707,Seeded Watermelon Halves,NaN,NaN,7.99,NaN
+708,Seedless Lemons,NaN,NaN,5.99,5.99
+709,Seedless Mandarins,NaN,0.82,NaN,NaN
+710,Seedless Watermelon Halves,NaN,NaN,7.0,7.0
+711,Seedless Watermelon Sliced,NaN,NaN,3.79,NaN
+712,Shallots,NaN,NaN,5.99,5.99
+713,Shanghai Bok Choy,4.63,NaN,4.22,4.22
+714,Shanghai Bok Choy Jr.,6.6,6.6,NaN,3.95
+715,Shishito Peppers,NaN,NaN,NaN,4.99
+716,"Shrimp & Bacon Caesar Salad, Mini",NaN,5.0,NaN,NaN
+717,Sliced and Whole Bistro Blend Mushrooms,NaN,NaN,6.99,6.99
+718,Small Cubed Cantaloupe,NaN,NaN,6.0,6.0
+719,"Smoothie, Green Vibes",NaN,NaN,8.99,8.99
+720,"Snack Cup, Veggies & Dip",6.0,6.0,NaN,NaN
+721,Snack Platter,8.0,8.0,8.0,NaN
+722,Snack Platter Vegetables,6.0,NaN,6.0,NaN
+723,Snap Peas,5.99,5.99,5.99,8.99
+724,Snow Peas,5.99,5.99,5.99,4.99
+725,Solo Papaya,7.99,7.99,NaN,NaN
+726,"Sonata, Sweet Mini Peppers",NaN,NaN,3.99,3.99
+727,Sour Cabbage Head,11.74,11.74,NaN,NaN
+728,Southwest Ranch Veggie Dip,1.49,1.49,NaN,1.49
+729,Southwest Salad Kit,6.99,6.99,6.99,NaN
+730,"Southwestern Chicken Salad, Family Size",NaN,17.0,NaN,17.0
+731,Southwestern Iceberg Salad with Chicken,NaN,NaN,17.0,NaN
+732,Soy Sprouts,NaN,1.99,NaN,NaN
+733,Spaghetti Squash,8.3,8.3,8.3,8.3
+734,Spanish Onion,NaN,NaN,1.81,1.81
+735,Spartan Apples,NaN,NaN,7.99,7.99
+736,Spicy Mustard Medley,NaN,NaN,4.79,4.79
+737,Spinach Veggie Dip,NaN,NaN,1.29,NaN
+738,"Spinach, Bunched",2.99,2.99,3.49,3.49
+739,Spring Herb Vinagrette Pouch,NaN,NaN,NaN,0.59
+740,Spring Mix,4.99,4.99,4.99,6.49
+741,Spring Mix Salad with Toppings Single Sized,6.99,6.99,5.99,5.99
+742,Star Fruit,NaN,NaN,2.99,2.99
+743,Steak & Blue Cheese Salad,NaN,NaN,9.0,NaN
+744,Steak & Egg Salad,9.0,NaN,NaN,NaN
+745,"Steak & Egg Salad, Family Size",19.0,NaN,NaN,NaN
+746,"Steak and Blue Cheese Salad, Large",NaN,NaN,13.0,NaN
+747,"Stir Fry Vegetable Mix (Peppers,Mushrooms & Onion Mix)",6.0,6.0,6.0,NaN
+748,Strawberries 1LB,6.49,6.49,NaN,NaN
+749,Strawberries 2LB,9.99,9.99,8.99,8.99
+750,Strawberries Small,6.0,NaN,NaN,NaN
+751,Strawberry Banana,9.99,6.99,4.99,4.99
+752,Strawberry Parfait,5.0,5.0,5.0,5.0
+753,Sugar Snap Peas  ,10.99,10.99,NaN,NaN
+754,Sun Rich Sliced Red Apples,6.0,NaN,NaN,6.0
+755,Sundried Tomatoes,NaN,NaN,2.99,NaN
+756,Sunflower Bacon Crunch Chopped Salad Kit,6.99,6.99,6.99,6.99
+757,Suntech Tomato,NaN,NaN,1.76,NaN
+758,Super Tea Pomegranate Peach Passion White Tea,11.99,11.99,11.99,11.99
+759,Sweet Baby Cauliflower,NaN,NaN,3.99,3.99
+760,Sweet Baby Lettuce,NaN,NaN,4.99,4.99
+761,Sweet Broccoli Tender Stems,NaN,NaN,5.99,NaN
+762,Sweet Cauliflower Tender Stems,NaN,NaN,5.99,NaN
+763,Sweet Chili Refrigerated Dip,5.99,5.99,5.99,5.99
+764,Sweet Green Peppers,3.08,3.08,2.46,2.46
+765,Sweet Kale,9.0,9.0,NaN,NaN
+766,Sweet Kale Salad Family Size,NaN,17.0,17.0,17.0
+767,Sweet Kale Salad Kit,6.49,6.49,5.99,5.99
+768,Sweet Nantes Carrots,NaN,NaN,3.99,3.99
+769,Sweet Onion,3.03,3.03,2.73,2.73
+770,"Sweet Onion Vinaigrette, Pouch",NaN,NaN,0.59,0.59
+771,Sweet Potato,3.46,3.46,2.49,2.49
+772,Sweet Potato Crinkle Fries,NaN,NaN,7.0,NaN
+773,Sweet Potatoes,9.99,9.99,5.99,5.99
+774,Taiwanese Flat Cabbage,3.97,NaN,NaN,4.96
+775,Tamarinds,5.99,NaN,5.99,5.99
+776,"Taro Root, Medium",NaN,NaN,16.46,16.46
+777,Tarragon,3.29,3.29,NaN,2.99
+778,The Built,NaN,NaN,NaN,12.0
+779,The Chop,NaN,NaN,NaN,12.0
+780,Thyme,3.29,3.29,2.99,2.99
+781,Tiffany Gate Feta Fiesta Kale Salad,NaN,NaN,2.29,2.29
+782,Tiffany Gate Golden Chickpea Salad,NaN,2.29,NaN,NaN
+783,Tiffany Gate Italian Gemelli Salad,NaN,NaN,2.29,NaN
+784,Tomato Beefsteak Red,1.47,1.47,1.47,1.47
+785,Tomato Bocconcini Salad,9.0,NaN,NaN,NaN
+786,Tomato Grape Cherub,6.99,NaN,NaN,NaN
+787,Tomato On The Vine Red (1 Bunch),4.68,4.68,2.33,2.33
+788,Tomato Sugar Bomb,NaN,NaN,6.99,6.99
+789,Tomatoes,NaN,NaN,6.99,NaN
+790,Turkish Pearl Couscous Salad,NaN,NaN,5.61,5.61
+791,Turmeric,NaN,NaN,4.32,4.32
+792,Turnips,2.5,NaN,2.92,2.92
+793,Ultraviolet Organic Kombucha,NaN,NaN,9.99,9.99
+794,Unsalted California Pistachios,11.99,11.99,10.99,10.99
+795,Vanilla Chai Tea,NaN,6.99,6.99,6.99
+796,Variety Pack Tomatoes,8.99,8.99,NaN,NaN
+797,Vegetable Medley,8.99,5.49,5.49,5.49
+798,Vegetable Platter Large,NaN,21.0,21.0,NaN
+799,"Veggie Dip, Light Ranch",5.99,5.99,5.99,5.99
+800,"Veggie Dip, Ranch",NaN,5.99,5.99,5.99
+801,"Veggie Dip, Ranch Snack Pack",NaN,6.99,6.99,6.99
+802,"Veggie Dip, Southwest Ranch",5.99,5.99,5.99,5.99
+803,"Veggie Dip, Spinach",5.99,5.99,5.99,5.99
+804,"Veggie Platter, Small",NaN,15.0,NaN,14.0
+805,Veggie Tripack,14.0,14.0,14.0,NaN
+806,Vero Tomato,NaN,NaN,6.99,6.99
+807,Villagio Marzano Tomatoes,7.99,7.99,NaN,NaN
+808,Washed Lettuce Crispies & Crunchies,5.99,5.99,NaN,NaN
+809,Watercress,3.99,NaN,NaN,2.49
+810,Watermelon Cubed Large,9.0,9.0,10.0,NaN
+811,Watermelon Cubed Small 300G,NaN,6.0,NaN,6.0
+812,Watermelon Quarters,NaN,NaN,6.28,NaN
+813,White Flesh Nectarine,1.06,1.06,1.85,1.85
+814,White Mushrooms,0.36,0.36,NaN,NaN
+815,White Onion,2.44,2.44,2.19,2.19
+816,White Peaches,2.31,2.31,2.31,2.31
+817,White Potatoes,2.37,8.49,2.37,2.37
+818,White Yams,NaN,NaN,6.05,6.05
+819,"Wonderful Pistachios, Roasted & Salted",NaN,6.99,6.49,6.49
+820,"Wonderful Pistachios, Shelled",NaN,NaN,NaN,8.99
+821,"Wonderful Pistachios, Sweet Chili",6.99,6.99,NaN,6.49
+822,Yellow Asian Pears,2.46,2.46,2.46,NaN
+823,Yellow Beans,NaN,NaN,NaN,5.99
+824,Yellow Caribe Hot Peppers,NaN,5.99,NaN,NaN
+825,Yellow Dragon Fruit,6.99,NaN,5.99,5.99
+826,Yellow Hot Hot Peppers,NaN,NaN,4.99,4.99
+827,Yellow Mini Potatoes,4.99,4.99,4.99,4.99
+828,Yellow Nectarines,2.16,NaN,NaN,NaN
+829,Yellow Onion,NaN,NaN,1.54,1.54
+830,Yellow Onions,3.49,3.49,2.99,2.99
+831,Yellow Onions Diced,4.0,NaN,NaN,NaN
+832,Yellow Peaches,3.08,3.08,NaN,NaN
+833,Yellow Potato 10lb Bag,8.49,NaN,NaN,NaN
+834,Yellow Potatoes,6.99,1.78,6.99,6.99
+835,"Yellow Russet Potatoes, 10 Lbs",NaN,NaN,NaN,6.99
+836,Yellow Yams,NaN,NaN,6.05,6.05
+837,Zucchini,1.85,1.85,1.66,1.66
+838,"Zucchini Pepper Kebab, 2 pack",6.0,NaN,NaN,NaN
+839,"Zucchini Pepper Kebab, 4 pack",10.0,NaN,NaN,NaN
