@@ -60,9 +60,17 @@ document.addEventListener('DOMContentLoaded', () => {
                         x:locations,
                         y:prices,
                         text: prices,
+                        hoverinfo: 'text',
                         type: 'bar',    
                     }];    
-                Plotly.newPlot("bar", barData);
+
+                var barLayout = {
+                    yaxis: {
+                        title: 'Price (CAD)'
+                    }
+                };
+                      
+                Plotly.newPlot("bar", barData, barLayout);
 
                 // Get lowest price
                 let minPrice = 9999.99
@@ -75,51 +83,58 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Difference between location price and lowest price
                 let priceDiff = [];
                 let colours = [];
+                let bubbleText = [];
                 for (i = 0; i < prices.length; i++){
-                    d = ((prices[i]*100) - (minPrice*100)) / 100
+                    // Javascript decimal subtraction error workaround
+                    d = ((prices[i]*100) - (minPrice*100)) / 100;
                     priceDiff.push(d);
               
                     if (d == 0){
-                      colours.push('#00FF00')
+                      colours.push('#00FF00');
+                      bubbleText.push(locations[i] + ', Lowest Price');
                     } else if (d < 1) {
-                      colours.push('FFFF00')
+                      colours.push('#FFFF00');
+                      bubbleText.push(locations[i] + ', $' + d + ' Higher');
                     } else if (d >= 1){
-                      colours.push('#FF0000')
+                      colours.push('#FF0000');
+                      bubbleText.push(locations[i] + ', $' + d + ' Higher');
                     } else {
-                      colours.push('#FFFFFF')
-                    }
+                      colours.push('#FFFFFF');
+                      bubbleText.push(locations[i] + ', Item Not Available');
+                    }          
                   }
 
                 // Bubblemap 
                 let mapdata = [{
                     type: 'scattergeo',
                     mode: 'markers',
-                    text: priceDiff,
                     lon: [-113.28, -79.24, -123.06, -75.43],
                     lat: [53.34, 43.65, 49.13,  45.24],
+                    hoverinfo: 'text',
+                    text: bubbleText,
                     marker: {
                         size: [20, 20, 20, 20],
                         color: colours,
                         line: {
                             color: 'black'
                         }
-                    },
-                    name: 'Price Difference'
-                  }];
+                    }
+                }];
                 
-                  let layout = {
-                     'geo': {
+                let layout = {
+                    title: 'Lowest Price <br><sup>Green: Lowest, Yellow: < $1 Higher, Red: >= $1 Higher </sup>' ,
+                    'geo': {
                         'scope': 'north america',
                         'resolution': 50,
                         lonaxis: { 
                           'range': [-130, -55]
-                      },
-                      lataxis: {
+                        },
+                        lataxis: {
                           'range': [40, 70]
-                      }
+                        }
                     }
-                  };
-                  Plotly.newPlot("bubble", mapdata, layout);
+                };
+                Plotly.newPlot("bubble", mapdata, layout);
               
             }
 
