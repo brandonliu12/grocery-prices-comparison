@@ -130,6 +130,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     title: 'Lowest Price <br><sup>Green: Lowest, Yellow: < $1 Higher, Red: >= $1 Higher </sup>' ,
                     paper_bgcolor: 'rgba(0,0,0,0)',
                     plot_bgcolor: 'rgba(0,0,0,0)',
+                    height:800,
                     'geo': {
                         'scope': 'north america',
                         'resolution': 50,
@@ -138,7 +139,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         },
                         lataxis: {
                           'range': [40, 70]
-                        }
+                        },
+
                     },
                     autosize: true,
                     automargin: true,
