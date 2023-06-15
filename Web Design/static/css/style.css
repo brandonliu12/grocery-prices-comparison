@@ -1,3 +1,43 @@
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+#buttonrow {
+    padding-bottom: 40px;
+}
+
+.basic-button {
+    padding:10px;
+    background-color: #0066cc;
+    color:#ddd;
+    border-radius: 5px;
+}
+
+.basic-button:link { text-decoration: none; }
+.basic-button:visited { text-decoration: none; }
+.basic-button:hover { text-decoration: none; }
+.basic-button:active { text-decoration: none; }
+
+
+a {
+    color: #0066cc;
+}
+
 .table {
-    width: 80%;
+
+    width: 50%;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
 }
